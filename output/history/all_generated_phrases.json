@@ -8294,7 +8294,42 @@
       "transliteration": "Tvoje srpsko poglavlje, otvara se sada.",
       "category": "Greetings",
       "generated_at": "2026-08-09T01:25:14.900825"
+    },
+    {
+      "english": "Briefing, first thing.",
+      "serbian": "Кратко обавештење, прво.",
+      "transliteration": "Kratko obaveštenje, prvo.",
+      "category": "Work",
+      "generated_at": "2026-08-09T12:44:01.821296"
+    },
+    {
+      "english": "Reviewing, the schedule.",
+      "serbian": "Прегледам, распоред.",
+      "transliteration": "Pregledam, raspored.",
+      "category": "Work",
+      "generated_at": "2026-08-09T12:44:01.821305"
+    },
+    {
+      "english": "Sending, the email now.",
+      "serbian": "Шаљем, мејл одмах.",
+      "transliteration": "Šaljem, mejl odmah.",
+      "category": "Work",
+      "generated_at": "2026-08-09T12:44:01.821307"
+    },
+    {
+      "english": "Preparing, presentation slides.",
+      "serbian": "Припремам, презентацију.",
+      "transliteration": "Pripremam, prezentaciju.",
+      "category": "Work",
+      "generated_at": "2026-08-09T12:44:01.821308"
+    },
+    {
+      "english": "Updating, the client.",
+      "serbian": "Јављам, клијенту.",
+      "transliteration": "Javljam, klijentu.",
+      "category": "Work",
+      "generated_at": "2026-08-09T12:44:01.821309"
     }
   ],
-  "last_updated": "2026-08-09T01:25:14.900826"
+  "last_updated": "2026-08-09T12:44:01.821311"
 }
