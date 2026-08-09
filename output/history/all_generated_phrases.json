@@ -8364,7 +8364,42 @@
       "transliteration": "Nar-od-nee preh-dak, oot-kan oo pree-cheh, seh-cha-nye zhee-vee.",
       "category": "Culture",
       "generated_at": "2026-08-09T14:42:23.440215"
+    },
+    {
+      "english": "My belongings, are gone, quickly!",
+      "serbian": "Moje stvari, su nestale, brzo!",
+      "transliteration": "Moy-eh stah-ree, soo nes-tah-leh, brzoo!",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T17:21:28.681929"
+    },
+    {
+      "english": "I need, a safe place, now!",
+      "serbian": "Trebam, sigurno mesto, odmah!",
+      "transliteration": "Treh-bahm, see-goo-roh meh-stoh, od-mahh!",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T17:21:28.681942"
+    },
+    {
+      "english": "Someone is trapped, help them!",
+      "serbian": "Neko je zarobljen, pomozite!",
+      "transliteration": "Neh-koh yeh zah-roh-blyen, poh-moh-zee-teh!",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T17:21:28.681944"
+    },
+    {
+      "english": "This is urgent, please listen!",
+      "serbian": "Ovo je hitno, molim vas!",
+      "transliteration": "Oh-voh yeh heet-noh, moh-leem vahs!",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T17:21:28.681946"
+    },
+    {
+      "english": "I require assistance, immediately!",
+      "serbian": "Potrebna mi je pomoć, hitno!",
+      "transliteration": "Poh-trehb-nah mee yeh poh-moch, heet-noh!",
+      "category": "Emergency",
+      "generated_at": "2026-08-09T17:21:28.681947"
     }
   ],
-  "last_updated": "2026-08-09T14:42:23.440217"
+  "last_updated": "2026-08-09T17:21:28.681949"
 }
