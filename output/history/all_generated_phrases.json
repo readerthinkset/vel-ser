@@ -8329,7 +8329,42 @@
       "transliteration": "Javljam, klijentu.",
       "category": "Work",
       "generated_at": "2026-08-09T12:44:01.821309"
+    },
+    {
+      "english": "Summer festival, vibrant colors, happy faces.",
+      "serbian": "Letnji festival, žarke boje, srećna lica.",
+      "transliteration": "Let-nyi fes-ti-val, zhar-keh bo-yeh, sreh-tna lee-tsa.",
+      "category": "Culture",
+      "generated_at": "2026-08-09T14:42:23.440202"
+    },
+    {
+      "english": "Old crafts, passed down, generations.",
+      "serbian": "Stari zanati, prenose se, generacijama.",
+      "transliteration": "Sta-ree za-na-tee, preh-no-seh seh, ge-ne-ra-tsi-ya-ma.",
+      "category": "Culture",
+      "generated_at": "2026-08-09T14:42:23.440212"
+    },
+    {
+      "english": "Forest path, birds singing, quiet peace.",
+      "serbian": "Šumska staza, ptice pevaju, tihi mir.",
+      "transliteration": "Shum-ska sta-za, ptee-tseh peh-va-yoo, tee-hee meer.",
+      "category": "Culture",
+      "generated_at": "2026-08-09T14:42:23.440214"
+    },
+    {
+      "english": "Market day, fresh produce, friendly chatter.",
+      "serbian": "Pijacni dan, sveže voće, ljubazno ćaskanje.",
+      "transliteration": "Pee-yach-nee dan, sveh-zheh vo-cheh, lyoo-baz-no chah-ska-nye.",
+      "category": "Culture",
+      "generated_at": "2026-08-09T14:42:23.440215"
+    },
+    {
+      "english": "Local legend, woven in tales, memory lives.",
+      "serbian": "Narodni predak, utkan u priče, sećanje živi.",
+      "transliteration": "Nar-od-nee preh-dak, oot-kan oo pree-cheh, seh-cha-nye zhee-vee.",
+      "category": "Culture",
+      "generated_at": "2026-08-09T14:42:23.440215"
     }
   ],
-  "last_updated": "2026-08-09T12:44:01.821311"
+  "last_updated": "2026-08-09T14:42:23.440217"
 }
