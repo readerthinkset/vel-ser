@@ -8434,7 +8434,42 @@
       "transliteration": "Oo-noo-trsh-nyee meer, spohl-yash-nyee tohk.",
       "category": "Balance",
       "generated_at": "2026-08-09T20:35:31.574971"
+    },
+    {
+      "english": "This is perfect, for my friend.",
+      "serbian": "Ovo je savršeno, za mog prijatelja.",
+      "transliteration": "Ovo ye savr-sheno, za mog pri-ya-te-lya.",
+      "category": "Shopping",
+      "generated_at": "2026-08-10T01:26:57.795840"
+    },
+    {
+      "english": "A little something, for the road.",
+      "serbian": "Nešto sitno, za put.",
+      "transliteration": "Ne-sh-to sit-no, za put.",
+      "category": "Shopping",
+      "generated_at": "2026-08-10T01:26:57.795848"
+    },
+    {
+      "english": "I adore this, style.",
+      "serbian": "Obožavam ovaj, stil.",
+      "transliteration": "O-bo-zha-vam o-vay stil.",
+      "category": "Shopping",
+      "generated_at": "2026-08-10T01:26:57.795850"
+    },
+    {
+      "english": "Do you have, something warmer?",
+      "serbian": "Imate li, nešto toplije?",
+      "transliteration": "I-ma-te li, ne-sh-to top-li-ye?",
+      "category": "Shopping",
+      "generated_at": "2026-08-10T01:26:57.795851"
+    },
+    {
+      "english": "This reminds me, of home.",
+      "serbian": "Ovo me podseća, na dom.",
+      "transliteration": "O-vo me pod-se-cha, na dom.",
+      "category": "Shopping",
+      "generated_at": "2026-08-10T01:26:57.795853"
     }
   ],
-  "last_updated": "2026-08-09T20:35:31.574973"
+  "last_updated": "2026-08-10T01:26:57.795855"
 }
