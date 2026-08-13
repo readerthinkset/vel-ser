@@ -8924,7 +8924,42 @@
       "transliteration": "Bakin zagrljaj, bash uteshan.",
       "category": "Family Terms",
       "generated_at": "2026-08-13T13:04:07.360363"
+    },
+    {
+      "english": "Warm air, smells like summer.",
+      "serbian": "Topao vazduh, miriše na leto.",
+      "transliteration": "Topao vazduh, mirishe na leto.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T15:05:54.922229"
+    },
+    {
+      "english": "Sunbeams, paint the fields.",
+      "serbian": "Sunčevi zraci, boje polja.",
+      "transliteration": "Suncevi zraci, boje polja.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T15:05:54.922238"
+    },
+    {
+      "english": "Evening dew, glistens softly.",
+      "serbian": "Večernja rosa, blista tiho.",
+      "transliteration": "Vecernja rosa, blista tiho.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T15:05:54.922239"
+    },
+    {
+      "english": "A crisp autumn day, begins.",
+      "serbian": "Oštar jesenji dan, počinje.",
+      "transliteration": "Ostar jesenji dan, pocinje.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T15:05:54.922240"
+    },
+    {
+      "english": "Sky weeps, gentle tears.",
+      "serbian": "Nebo plače, sitnim suzama.",
+      "transliteration": "Nebo plache, sitnim suzama.",
+      "category": "Weather",
+      "generated_at": "2026-08-13T15:05:54.922241"
     }
   ],
-  "last_updated": "2026-08-13T13:04:07.360364"
+  "last_updated": "2026-08-13T15:05:54.922243"
 }
