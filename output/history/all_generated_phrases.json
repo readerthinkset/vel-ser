@@ -8889,7 +8889,42 @@
       "transliteration": "Treba mi novi, par helanki.",
       "category": "Clothes",
       "generated_at": "2026-08-13T01:44:49.264917"
+    },
+    {
+      "english": "My dad, a real rock.",
+      "serbian": "Moj tata, stena prava.",
+      "transliteration": "Moy tata, stena prava.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-13T13:04:07.360347"
+    },
+    {
+      "english": "Mom's cooking, always a delight.",
+      "serbian": "Mamina kuhinja, uvek milina.",
+      "transliteration": "Mamina kuhinja, uvek milina.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-13T13:04:07.360358"
+    },
+    {
+      "english": "Brother's jokes, a bit silly.",
+      "serbian": "Bratine šale, malo luckaste.",
+      "transliteration": "Bratine shale, malo luckaste.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-13T13:04:07.360360"
+    },
+    {
+      "english": "Sister's advice, always thoughtful.",
+      "serbian": "Sestrina pomoć, uvek promišljena.",
+      "transliteration": "Sestrima pomoch, uvek promishljena.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-13T13:04:07.360361"
+    },
+    {
+      "english": "Grandma's hugs, so comforting.",
+      "serbian": "Bakin zagrljaj, baš utešan.",
+      "transliteration": "Bakin zagrljaj, bash uteshan.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-13T13:04:07.360363"
     }
   ],
-  "last_updated": "2026-08-13T01:44:49.264918"
+  "last_updated": "2026-08-13T13:04:07.360364"
 }
