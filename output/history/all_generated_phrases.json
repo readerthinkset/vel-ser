@@ -9449,7 +9449,42 @@
       "transliteration": "Preuzmi, korisno znanje.",
       "category": "Technology",
       "generated_at": "2026-08-16T14:30:24.814613"
+    },
+    {
+      "english": "Is anyone, here?",
+      "serbian": "Има ли, некога?",
+      "transliteration": "Ima li, nekoga?",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T17:11:39.078622"
+    },
+    {
+      "english": "I need, water, quickly.",
+      "serbian": "Треба ми, вода, хитно.",
+      "transliteration": "Treba mi, voda, hitno.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T17:11:39.078633"
+    },
+    {
+      "english": "My keys, are gone.",
+      "serbian": "Кључеви, су нестали.",
+      "transliteration": "Ključevi, su nestali.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T17:11:39.078634"
+    },
+    {
+      "english": "I feel, dizzy, please.",
+      "serbian": "Врти ми се, у глави, молим.",
+      "transliteration": "Vrti mi se, u glavi, molim.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T17:11:39.078635"
+    },
+    {
+      "english": "Can I, use your phone?",
+      "serbian": "Могу ли, да користим, телефон?",
+      "transliteration": "Mogu li, da koristim, telefon?",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T17:11:39.078636"
     }
   ],
-  "last_updated": "2026-08-16T14:30:24.814615"
+  "last_updated": "2026-08-16T17:11:39.078638"
 }
