@@ -9589,7 +9589,42 @@
       "transliteration": "Nah-sheh shah-leh, nay-bol-yeh.",
       "category": "Friendship",
       "generated_at": "2026-08-17T12:39:48.248131"
+    },
+    {
+      "english": "Focus on the sound, my friend.",
+      "serbian": "Usredsredi se na zvuk, prijatelju.",
+      "transliteration": "Usredsredi se na zvuk, prijatelju.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T14:36:42.970725"
+    },
+    {
+      "english": "Let's try this together, now.",
+      "serbian": "Hajde da probamo ovo zajedno, sad.",
+      "transliteration": "Hajde da probamo ovo zajedno, sad.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T14:36:42.970734"
+    },
+    {
+      "english": "Hear the difference, if you can.",
+      "serbian": "Čuj razliku, ako možeš.",
+      "transliteration": "Chuy razliku, ako možesh.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T14:36:42.970736"
+    },
+    {
+      "english": "Whisper the new word, softly.",
+      "serbian": "Šapni novu reč, tiho.",
+      "transliteration": "Shapni novu rech, tiho.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T14:36:42.970737"
+    },
+    {
+      "english": "Feel the sentence structure, inside.",
+      "serbian": "Oseti strukturu rečenice, iznutra.",
+      "transliteration": "Oseti strukturu rechenitse, iznutra.",
+      "category": "Directions",
+      "generated_at": "2026-08-17T14:36:42.970738"
     }
   ],
-  "last_updated": "2026-08-17T12:39:48.248133"
+  "last_updated": "2026-08-17T14:36:42.970740"
 }
