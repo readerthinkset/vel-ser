@@ -10079,7 +10079,42 @@
       "transliteration": "Topao zagrljaj, ovo posebno vreme.",
       "category": "Holidays",
       "generated_at": "2026-08-20T14:43:49.126847"
+    },
+    {
+      "english": "Something light, perhaps?",
+      "serbian": "Nešto lagano, možda?",
+      "transliteration": "Neshto lagano, modj-ah?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-20T17:19:23.899721"
+    },
+    {
+      "english": "This aroma, divine.",
+      "serbian": "Ovaj miris, božanstven.",
+      "transliteration": "O-vay miris, bo-zhan-stven.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-20T17:19:23.899731"
+    },
+    {
+      "english": "A refreshing drink, please.",
+      "serbian": "Osvežavajuće piće, molim.",
+      "transliteration": "Os-vezh-a-yoo-chay peech-ay, mo-leem.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-20T17:19:23.899733"
+    },
+    {
+      "english": "Could we try that pastry?",
+      "serbian": "Možemo li probati to pecivo?",
+      "transliteration": "Mo-zhe-mo li pro-ba-ti to pe-tsi-vo?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-20T17:19:23.899734"
+    },
+    {
+      "english": "What's the catch of the day?",
+      "serbian": "Šta je današnji ulov?",
+      "transliteration": "Shta yay da-nash-nyi oo-lov?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-20T17:19:23.899738"
     }
   ],
-  "last_updated": "2026-08-20T14:43:49.126849"
+  "last_updated": "2026-08-20T17:19:23.899740"
 }
