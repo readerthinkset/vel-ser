@@ -10009,7 +10009,42 @@
       "transliteration": "Savršeno za kombinovanje, ovo.",
       "category": "Clothes",
       "generated_at": "2026-08-20T01:03:12.937592"
+    },
+    {
+      "english": "Coffee, before anything, please.",
+      "serbian": "Kafa, pre svega, molim.",
+      "transliteration": "Kafa, pre svega, molim.",
+      "category": "Work",
+      "generated_at": "2026-08-20T12:42:44.657689"
+    },
+    {
+      "english": "Let's tackle this, head-on.",
+      "serbian": "Hajdemo se suočiti s ovim, direktno.",
+      "transliteration": "Hajdemo se suočiti s ovim, direktno.",
+      "category": "Work",
+      "generated_at": "2026-08-20T12:42:44.657700"
+    },
+    {
+      "english": "This detail, needs a closer look.",
+      "serbian": "Ovaj detalj, treba pažljiviji pogled.",
+      "transliteration": "Ovaj detalj, treba pažljiviji pogled.",
+      "category": "Work",
+      "generated_at": "2026-08-20T12:42:44.657702"
+    },
+    {
+      "english": "Could you lend, a hand here?",
+      "serbian": "Možeš li pružiti, ruku ovde?",
+      "transliteration": "Možeš li pružiti, ruku ovde?",
+      "category": "Work",
+      "generated_at": "2026-08-20T12:42:44.657703"
+    },
+    {
+      "english": "I need your input, on this.",
+      "serbian": "Treba mi tvoj doprinos, na ovome.",
+      "transliteration": "Treba mi tvoj doprinos, na ovome.",
+      "category": "Work",
+      "generated_at": "2026-08-20T12:42:44.657704"
     }
   ],
-  "last_updated": "2026-08-20T01:03:12.937594"
+  "last_updated": "2026-08-20T12:42:44.657706"
 }
