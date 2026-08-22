@@ -10394,7 +10394,42 @@
       "transliteration": "Balkanski povetarac, zdravo.",
       "category": "Greetings",
       "generated_at": "2026-08-22T12:34:13.231364"
+    },
+    {
+      "english": "A little sparrow, chirps a song.",
+      "serbian": "Mali vrabac, cvrkuće pesmu.",
+      "transliteration": "Mali vrabac, cvrkuće pesmu.",
+      "category": "Animals",
+      "generated_at": "2026-08-22T14:29:15.172830"
+    },
+    {
+      "english": "The strong elephant, walks slowly.",
+      "serbian": "Snažni slon, hoda polako.",
+      "transliteration": "Snažni slon, hoda polako.",
+      "category": "Animals",
+      "generated_at": "2026-08-22T14:29:15.172839"
+    },
+    {
+      "english": "A colorful parrot, repeats words.",
+      "serbian": "Šareni papagaj, ponavlja reči.",
+      "transliteration": "Šareni papagaj, ponavlja reči.",
+      "category": "Animals",
+      "generated_at": "2026-08-22T14:29:15.172841"
+    },
+    {
+      "english": "The sly snake, slithers quietly.",
+      "serbian": "Lukava zmija, puže tiho.",
+      "transliteration": "Lukava zmija, puže tiho.",
+      "category": "Animals",
+      "generated_at": "2026-08-22T14:29:15.172842"
+    },
+    {
+      "english": "A playful dolphin, leaps from waves.",
+      "serbian": "Razigrani delfin, skače iz talasa.",
+      "transliteration": "Razigrani delfin, skače iz talasa.",
+      "category": "Animals",
+      "generated_at": "2026-08-22T14:29:15.172844"
     }
   ],
-  "last_updated": "2026-08-22T12:34:13.231366"
+  "last_updated": "2026-08-22T14:29:15.172845"
 }
