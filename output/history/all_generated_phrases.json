@@ -10604,7 +10604,42 @@
       "transliteration": "Uživaj u svakom zvuku, gradi tečnost.",
       "category": "Success",
       "generated_at": "2026-08-23T14:30:45.630839"
+    },
+    {
+      "english": "This truly brightens my world.",
+      "serbian": "Ovo mi zaista ulepšava svet.",
+      "transliteration": "Ovo mi zaista ulepshava svet.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-23T17:12:20.139206"
+    },
+    {
+      "english": "Your kindness, is a light.",
+      "serbian": "Vaša dobrota, svetlost je.",
+      "transliteration": "Vasha dobrota, svetlost je.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-23T17:12:20.139216"
+    },
+    {
+      "english": "I'm so thankful, for you.",
+      "serbian": "Tako sam zahvalan, zbog tebe.",
+      "transliteration": "Tako sam zahvalan, zbog tebe.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-23T17:12:20.139218"
+    },
+    {
+      "english": "This is more than enough.",
+      "serbian": "Ovo je više nego dovoljno.",
+      "transliteration": "Ovo je vishe nego dovoljno.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-23T17:12:20.139219"
+    },
+    {
+      "english": "My thanks, are deep.",
+      "serbian": "Moja zahvalnost, je duboka.",
+      "transliteration": "Moya zahvalnost, je duboka.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-23T17:12:20.139220"
     }
   ],
-  "last_updated": "2026-08-23T14:30:45.630841"
+  "last_updated": "2026-08-23T17:12:20.139222"
 }
