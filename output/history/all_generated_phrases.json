@@ -10814,7 +10814,42 @@
       "transliteration": "Bežična čuda, svuda.",
       "category": "Technology",
       "generated_at": "2026-08-24T17:22:30.409747"
+    },
+    {
+      "english": "Dawn breaks, a quiet promise.",
+      "serbian": "Svanulo je, tiho obećanje.",
+      "transliteration": "Svanulo je, tiho obećanje.",
+      "category": "Time",
+      "generated_at": "2026-08-24T20:33:20.784047"
+    },
+    {
+      "english": "Morning mist, slowly lifting.",
+      "serbian": "Jutarnja magla, polako se diže.",
+      "transliteration": "Jutarnja magla, polako se diže.",
+      "category": "Time",
+      "generated_at": "2026-08-24T20:33:20.784062"
+    },
+    {
+      "english": "Midday sun, at its peak.",
+      "serbian": "Podnevno sunce, u zenitu.",
+      "transliteration": "Podnevno sunce, u zenitu.",
+      "category": "Time",
+      "generated_at": "2026-08-24T20:33:20.784064"
+    },
+    {
+      "english": "Afternoon light, softening edges.",
+      "serbian": "Popodnevno svetlo, omekšava ivice.",
+      "transliteration": "Popodnevno svetlo, omekšava ivice.",
+      "category": "Time",
+      "generated_at": "2026-08-24T20:33:20.784066"
+    },
+    {
+      "english": "Evening breeze, whispers secrets.",
+      "serbian": "Večernji povetarac, šapuće tajne.",
+      "transliteration": "Večernji povetarac, šapuće tajne.",
+      "category": "Time",
+      "generated_at": "2026-08-24T20:33:20.784067"
     }
   ],
-  "last_updated": "2026-08-24T17:22:30.409748"
+  "last_updated": "2026-08-24T20:33:20.784069"
 }
