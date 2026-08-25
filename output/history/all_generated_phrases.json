@@ -10919,7 +10919,42 @@
       "transliteration": "Srce mi, biva lakkshe, bez ovoga.",
       "category": "Forgiveness",
       "generated_at": "2026-08-25T12:47:44.283922"
+    },
+    {
+      "english": "This, really suits me.",
+      "serbian": "Ovo, mi baš pristaje.",
+      "transliteration": "Ovo, mi bash pristaye.",
+      "category": "Shopping",
+      "generated_at": "2026-08-25T14:53:56.654671"
+    },
+    {
+      "english": "Can I, try this on?",
+      "serbian": "Mogu li, probati ovo?",
+      "transliteration": "Mogu li, probati ovo?",
+      "category": "Shopping",
+      "generated_at": "2026-08-25T14:53:56.654683"
+    },
+    {
+      "english": "It's, a bit too snug.",
+      "serbian": "Malo je, pretesno.",
+      "transliteration": "Malo ye, pretesno.",
+      "category": "Shopping",
+      "generated_at": "2026-08-25T14:53:56.654684"
+    },
+    {
+      "english": "I'm looking, for something specific.",
+      "serbian": "Tražim, nešto određeno.",
+      "transliteration": "Trazhim, neshto odredyeno.",
+      "category": "Shopping",
+      "generated_at": "2026-08-25T14:53:56.654685"
+    },
+    {
+      "english": "Does this, come in blue?",
+      "serbian": "Ima li ovoga, u plavoj boji?",
+      "transliteration": "Ima li ovoga, u plavoy boji?",
+      "category": "Shopping",
+      "generated_at": "2026-08-25T14:53:56.654686"
     }
   ],
-  "last_updated": "2026-08-25T12:47:44.283924"
+  "last_updated": "2026-08-25T14:53:56.654688"
 }
