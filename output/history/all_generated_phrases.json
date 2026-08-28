@@ -11269,7 +11269,42 @@
       "transliteration": "Posadi frazu, neka raste.",
       "category": "Growth",
       "generated_at": "2026-08-28T01:18:04.676102"
+    },
+    {
+      "english": "Let's build, something great.",
+      "serbian": "Да направимо, нешто сјајно.",
+      "transliteration": "Da napravimo, nesto sjajno.",
+      "category": "Work",
+      "generated_at": "2026-08-28T04:06:17.825096"
+    },
+    {
+      "english": "What's the plan, today?",
+      "serbian": "Какав је план, данас?",
+      "transliteration": "Kakav je plan, danas?",
+      "category": "Work",
+      "generated_at": "2026-08-28T04:06:17.825107"
+    },
+    {
+      "english": "Time to move, forward.",
+      "serbian": "Време је за, померање напред.",
+      "transliteration": "Vreme je za, pomeranje napred.",
+      "category": "Work",
+      "generated_at": "2026-08-28T04:06:17.825109"
+    },
+    {
+      "english": "This task, is important.",
+      "serbian": "Овај задатак, је битан.",
+      "transliteration": "Ovaj zadatak, je bitan.",
+      "category": "Work",
+      "generated_at": "2026-08-28T04:06:17.825111"
+    },
+    {
+      "english": "Let's refine, this concept.",
+      "serbian": "Да усамршимо, овај концепт.",
+      "transliteration": "Da usavrsimo, ovaj koncept.",
+      "category": "Work",
+      "generated_at": "2026-08-28T04:06:17.825112"
     }
   ],
-  "last_updated": "2026-08-28T01:18:04.676104"
+  "last_updated": "2026-08-28T04:06:17.825114"
 }
