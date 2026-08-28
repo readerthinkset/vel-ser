@@ -11339,7 +11339,42 @@
       "transliteration": "Tvoj srpski glas, jača.",
       "category": "Education",
       "generated_at": "2026-08-28T08:58:23.543279"
+    },
+    {
+      "english": "What's new, today?",
+      "serbian": "Шта има, данас?",
+      "transliteration": "Shta ima, danas?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-28T21:43:28.573481"
+    },
+    {
+      "english": "It's a bit chilly, isn't it?",
+      "serbian": "Мало је хладно, зар не?",
+      "transliteration": "Malo je hladno, zar ne?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-28T21:43:28.573490"
+    },
+    {
+      "english": "I'm feeling tired, frankly.",
+      "serbian": "Осећам се уморно, искрено.",
+      "transliteration": "Osećam se umorno, iskreno.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-28T21:43:28.573492"
+    },
+    {
+      "english": "Let's try this, shall we?",
+      "serbian": "Хајде да пробамо ово, је л' да?",
+      "transliteration": "Hajde da probamo ovo, je l' da?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-28T21:43:28.573494"
+    },
+    {
+      "english": "That's a good idea, indeed.",
+      "serbian": "То је добра идеја, заиста.",
+      "transliteration": "To je dobra ideja, zaista.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-28T21:43:28.573495"
     }
   ],
-  "last_updated": "2026-08-28T08:58:23.543280"
+  "last_updated": "2026-08-28T21:43:28.573496"
 }
