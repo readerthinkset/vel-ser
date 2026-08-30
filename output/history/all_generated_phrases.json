@@ -11689,7 +11689,42 @@
       "transliteration": "Narodne pesme, priče iz davnina.",
       "category": "Culture",
       "generated_at": "2026-08-30T03:31:23.558712"
+    },
+    {
+      "english": "This jacket, feels surprisingly light.",
+      "serbian": "Ova jakna, neverovatno je lagana.",
+      "transliteration": "Ova jakna, neverovatno je lagana.",
+      "category": "Clothes",
+      "generated_at": "2026-08-30T16:01:42.246693"
+    },
+    {
+      "english": "A splash of color, for the outfit.",
+      "serbian": "Kap boje, za odevnu kombinaciju.",
+      "transliteration": "Kap boje, za odevnu kombinaciju.",
+      "category": "Clothes",
+      "generated_at": "2026-08-30T16:01:42.246703"
+    },
+    {
+      "english": "These boots, are made for walking.",
+      "serbian": "Ove čizme, stvorene su za hodanje.",
+      "transliteration": "Ove čizme, stvorene su za hodanje.",
+      "category": "Clothes",
+      "generated_at": "2026-08-30T16:01:42.246705"
+    },
+    {
+      "english": "That tie, adds a touch of flair.",
+      "serbian": "Ta kravata, dodaje dozu stila.",
+      "transliteration": "Ta kravata, dodaje dozu stila.",
+      "category": "Clothes",
+      "generated_at": "2026-08-30T16:01:42.246706"
+    },
+    {
+      "english": "Is this shirt, too formal?",
+      "serbian": "Je li ova košulja, previše formalna?",
+      "transliteration": "Je li ova košulja, previše formalna?",
+      "category": "Clothes",
+      "generated_at": "2026-08-30T16:01:42.246707"
     }
   ],
-  "last_updated": "2026-08-30T03:31:23.558713"
+  "last_updated": "2026-08-30T16:01:42.246709"
 }
