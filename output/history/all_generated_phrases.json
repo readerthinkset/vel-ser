@@ -11899,7 +11899,42 @@
       "transliteration": "Gradimo, naš sopstveni svet.",
       "category": "Relationships",
       "generated_at": "2026-08-31T18:45:32.529645"
+    },
+    {
+      "english": "This place, it has charm.",
+      "serbian": "Ovo mesto, ima šarma.",
+      "transliteration": "Ovo mesto, ima šarma.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:57:40.256059"
+    },
+    {
+      "english": "What's new, on the board?",
+      "serbian": "Šta je novo, na tabli?",
+      "transliteration": "Šta je novo, na tabli?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:57:40.256069"
+    },
+    {
+      "english": "A light salad, perhaps?",
+      "serbian": "Lagana salata, možda?",
+      "transliteration": "Lagana salata, možda?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:57:40.256071"
+    },
+    {
+      "english": "This bread, it smells amazing.",
+      "serbian": "Ovaj hleb, divno miriše.",
+      "transliteration": "Ovaj hleb, divno miriše.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:57:40.256073"
+    },
+    {
+      "english": "We're ready, to order now.",
+      "serbian": "Spremni smo, da naručimo.",
+      "transliteration": "Spremni smo, da naručimo.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-31T19:57:40.256074"
     }
   ],
-  "last_updated": "2026-08-31T18:45:32.529648"
+  "last_updated": "2026-08-31T19:57:40.256076"
 }
