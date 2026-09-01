@@ -12004,7 +12004,42 @@
       "transliteration": "Ova lokalna rukotvorina, je izuzetna.",
       "category": "Travel",
       "generated_at": "2026-08-31T23:39:57.597654"
+    },
+    {
+      "english": "Help, my leg is twisted.",
+      "serbian": "Помоћ, нога ми је уганута.",
+      "transliteration": "Pomoc, noga mi je uganuta.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T03:29:05.776763"
+    },
+    {
+      "english": "I can't see, it's dark.",
+      "serbian": "Не видим, мрачно је.",
+      "transliteration": "Ne vidim, mracno je.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T03:29:05.776776"
+    },
+    {
+      "english": "My ear, it hurts a lot.",
+      "serbian": "Уво ме, много боли.",
+      "transliteration": "Uvo me, mnogo boli.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T03:29:05.776778"
+    },
+    {
+      "english": "Please, I need a blanket.",
+      "serbian": "Молим, треба ми ћебе.",
+      "transliteration": "Molim, treba mi cebe.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T03:29:05.776780"
+    },
+    {
+      "english": "Someone is collapsed, over there.",
+      "serbian": "Неко се срушио, тамо.",
+      "transliteration": "Neko se srusio, tamo.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T03:29:05.776781"
     }
   ],
-  "last_updated": "2026-08-31T23:39:57.597656"
+  "last_updated": "2026-09-01T03:29:05.776784"
 }
