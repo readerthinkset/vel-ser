@@ -12214,7 +12214,42 @@
       "transliteration": "Bu-du-che fi-nan-si-ye, pla-ni-ra-ne da-nas.",
       "category": "Finance",
       "generated_at": "2026-09-02T02:47:24.391296"
+    },
+    {
+      "english": "A small frog, croaks by the pond.",
+      "serbian": "Mala žaba, krekeće pored bare.",
+      "transliteration": "Mala zhaba, krekeche pored bare.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T16:02:21.669996"
+    },
+    {
+      "english": "The proud rooster, crows at dawn.",
+      "serbian": "Ponosni petao, kukurice u zoru.",
+      "transliteration": "Ponosni petao, kukuriche u zoru.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T16:02:21.670007"
+    },
+    {
+      "english": "A sleepy kitten, dreams of milk.",
+      "serbian": "Sanjivo mače, sanja mleko.",
+      "transliteration": "Sanjivo mače, sanja mleko.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T16:02:21.670008"
+    },
+    {
+      "english": "The gentle lamb, skips in the meadow.",
+      "serbian": "Blago jagnje, skakuće po livadi.",
+      "transliteration": "Blago yagnje, skakuche po livadi.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T16:02:21.670009"
+    },
+    {
+      "english": "A busy ant, carries a crumb.",
+      "serbian": "Vredni mrav, nosi mrvicu.",
+      "transliteration": "Vredni mrav, nosi mrvicu.",
+      "category": "Animals",
+      "generated_at": "2026-09-02T16:02:21.670010"
     }
   ],
-  "last_updated": "2026-09-02T02:47:24.391298"
+  "last_updated": "2026-09-02T16:02:21.670013"
 }
