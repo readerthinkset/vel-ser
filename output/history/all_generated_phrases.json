@@ -12669,7 +12669,42 @@
       "transliteration": "Odmorite duboko, napunite se.",
       "category": "Health",
       "generated_at": "2026-09-04T22:20:43.743735"
+    },
+    {
+      "english": "Air is heavy, with coming rain.",
+      "serbian": "Vazduh je težak, pred kišu.",
+      "transliteration": "Vazduh je težak, pred kišu.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T02:53:58.173860"
+    },
+    {
+      "english": "Sun peeks out, after the storm.",
+      "serbian": "Sunce viri, posle oluje.",
+      "transliteration": "Sunce viri, posle oluje.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T02:53:58.173877"
+    },
+    {
+      "english": "Gust snow falls, blanketing the ground.",
+      "serbian": "Gusti sneg pada, prekrivajući zemlju.",
+      "transliteration": "Gusti sneg pada, prekrivajući zemlju.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T02:53:58.173879"
+    },
+    {
+      "english": "Sky wears grey, a dull blanket.",
+      "serbian": "Nebo nosi sivo, tup pokrivač.",
+      "transliteration": "Nebo nosi sivo, tup pokrivač.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T02:53:58.173880"
+    },
+    {
+      "english": "Wind plays rough, with the branches.",
+      "serbian": "Vetar divlja, granama.",
+      "transliteration": "Vetar divlja, granama.",
+      "category": "Weather",
+      "generated_at": "2026-09-05T02:53:58.173881"
     }
   ],
-  "last_updated": "2026-09-04T22:20:43.743737"
+  "last_updated": "2026-09-05T02:53:58.173883"
 }
