@@ -12844,7 +12844,42 @@
       "transliteration": "Stoj uspravno, u svom svetlu.",
       "category": "Strength",
       "generated_at": "2026-09-06T02:50:23.677891"
+    },
+    {
+      "english": "One small step, for mankind.",
+      "serbian": "Jedan mali korak, za čovečanstvo.",
+      "transliteration": "Jedan mali korak, za čovečanstvo.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T14:55:29.047958"
+    },
+    {
+      "english": "Two brave souls, sailing west.",
+      "serbian": "Dve hrabre duše, plove na zapad.",
+      "transliteration": "Dve hrabre duše, plove na zapad.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T14:55:29.047968"
+    },
+    {
+      "english": "Three cheers, for the winner.",
+      "serbian": "Tri puta hura, za pobednika.",
+      "transliteration": "Tri puta hura, za pobednika.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T14:55:29.047970"
+    },
+    {
+      "english": "Four corners, of the world.",
+      "serbian": "Četiri ugla, sveta.",
+      "transliteration": "Četiri ugla, sveta.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T14:55:29.047971"
+    },
+    {
+      "english": "Five stars, shining bright.",
+      "serbian": "Pet zvezda, sija jarko.",
+      "transliteration": "Pet zvezda, sija jarko.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T14:55:29.047973"
     }
   ],
-  "last_updated": "2026-09-06T02:50:23.677893"
+  "last_updated": "2026-09-06T14:55:29.047975"
 }
