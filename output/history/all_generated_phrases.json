@@ -12914,7 +12914,42 @@
       "transliteration": "Neka vam srpske priče, vode put.",
       "category": "Purpose",
       "generated_at": "2026-09-06T16:51:19.770338"
+    },
+    {
+      "english": "This stew, it's warming.",
+      "serbian": "Ovo varivo, greje dušu.",
+      "transliteration": "Ovo varivo, greje dushu.",
+      "category": "Food",
+      "generated_at": "2026-09-06T18:44:45.829485"
+    },
+    {
+      "english": "A spoonful, of comfort.",
+      "serbian": "Jedna kašika, utehe.",
+      "transliteration": "Yedna kashika, utehe.",
+      "category": "Food",
+      "generated_at": "2026-09-06T18:44:45.829495"
+    },
+    {
+      "english": "This plum jam, so rich.",
+      "serbian": "Ovaj džem, od šljiva, pun ukus.",
+      "transliteration": "Ovay djem, od shljiva, pun ukus.",
+      "category": "Food",
+      "generated_at": "2026-09-06T18:44:45.829497"
+    },
+    {
+      "english": "A piece, of pie, please.",
+      "serbian": "Jedan komad, pite, molim.",
+      "transliteration": "Yedan komad, pite, molim.",
+      "category": "Food",
+      "generated_at": "2026-09-06T18:44:45.829498"
+    },
+    {
+      "english": "The grilled meat, smells amazing.",
+      "serbian": "Rostilj, divno miriše.",
+      "transliteration": "Rostilj, divno mirishe.",
+      "category": "Food",
+      "generated_at": "2026-09-06T18:44:45.829499"
     }
   ],
-  "last_updated": "2026-09-06T16:51:19.770340"
+  "last_updated": "2026-09-06T18:44:45.829501"
 }
