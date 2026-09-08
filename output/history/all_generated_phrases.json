@@ -13159,7 +13159,42 @@
       "transliteration": "Lagan vetar, nosi nadu.",
       "category": "Hope",
       "generated_at": "2026-09-07T22:38:01.271582"
+    },
+    {
+      "english": "Sudden pain, here.",
+      "serbian": "Iznenadni bol, ovde.",
+      "transliteration": "Iznenadni bol, ovde.",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T17:52:16.912963"
+    },
+    {
+      "english": "I've cut myself, badly.",
+      "serbian": "Posekao sam se, jako.",
+      "transliteration": "Posekao sam se, jako.",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T17:52:16.912978"
+    },
+    {
+      "english": "My vision, is blurred.",
+      "serbian": "Vid mi, je zamućen.",
+      "transliteration": "Vid mi, je zamućen.",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T17:52:16.912980"
+    },
+    {
+      "english": "I cannot stand up.",
+      "serbian": "Ne mogu da ustanem.",
+      "transliteration": "Ne mogu da ustanem.",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T17:52:16.912982"
+    },
+    {
+      "english": "Need a doctor, now.",
+      "serbian": "Hitno mi treba, doktor.",
+      "transliteration": "Hitno mi treba, doktor.",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T17:52:16.912983"
     }
   ],
-  "last_updated": "2026-09-07T22:38:01.271584"
+  "last_updated": "2026-09-08T17:52:16.912986"
 }
