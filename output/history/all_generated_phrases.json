@@ -13509,7 +13509,42 @@
       "transliteration": "Zlatna pšenica, sunčano žuta.",
       "category": "Colors",
       "generated_at": "2026-09-10T17:38:34.705905"
+    },
+    {
+      "english": "This place, has such a vibe.",
+      "serbian": "Ovo mesto, ima baš atmosferu.",
+      "transliteration": "Ovo mesto, ima bash atmosferu.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:21:38.183616"
+    },
+    {
+      "english": "What's cooking, tonight?",
+      "serbian": "Šta se sprema, večeras?",
+      "transliteration": "Shta se sprema, vecheras?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:21:38.183629"
+    },
+    {
+      "english": "A little something, sweet.",
+      "serbian": "Nešto malo, slatko.",
+      "transliteration": "Neshto malo, slatko.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:21:38.183630"
+    },
+    {
+      "english": "Surprise me, with a drink.",
+      "serbian": "Iznenadi me, pićem.",
+      "transliteration": "Iznazadi me, pichem.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:21:38.183631"
+    },
+    {
+      "english": "Is this seat, taken?",
+      "serbian": "Je l-li ovo mesto, slobodno?",
+      "transliteration": "Ye-li ovo mesto, slobodno?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-10T19:21:38.183632"
     }
   ],
-  "last_updated": "2026-09-10T17:38:34.705906"
+  "last_updated": "2026-09-10T19:21:38.183633"
 }
