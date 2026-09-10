@@ -13544,7 +13544,42 @@
       "transliteration": "Ye-li ovo mesto, slobodno?",
       "category": "Restaurant",
       "generated_at": "2026-09-10T19:21:38.183632"
+    },
+    {
+      "english": "This outfit, is quite daring.",
+      "serbian": "Ova kombinacija, je baš hrabra.",
+      "transliteration": "Ova kombinacija, je baš hrabra.",
+      "category": "Clothes",
+      "generated_at": "2026-09-10T22:20:52.585861"
+    },
+    {
+      "english": "Such a flowy, summer dress.",
+      "serbian": "Tako lepršava, haljina za leto.",
+      "transliteration": "Tako lepršava, haljina za leto.",
+      "category": "Clothes",
+      "generated_at": "2026-09-10T22:20:52.585875"
+    },
+    {
+      "english": "These pajamas, are super comfy.",
+      "serbian": "Ove pidžame, su baš udobne.",
+      "transliteration": "Ove pidžame, su baš udobne.",
+      "category": "Clothes",
+      "generated_at": "2026-09-10T22:20:52.585877"
+    },
+    {
+      "english": "A tailored suit, for the event.",
+      "serbian": "Skrojeno odelo, za događaj.",
+      "transliteration": "Skrojeno odelo, za događaj.",
+      "category": "Clothes",
+      "generated_at": "2026-09-10T22:20:52.585878"
+    },
+    {
+      "english": "This vest, adds texture.",
+      "serbian": "Ovaj prsluk, dodaje teksturu.",
+      "transliteration": "Ovaj prsluk, dodaje teksturu.",
+      "category": "Clothes",
+      "generated_at": "2026-09-10T22:20:52.585879"
     }
   ],
-  "last_updated": "2026-09-10T19:21:38.183633"
+  "last_updated": "2026-09-10T22:20:52.585880"
 }
