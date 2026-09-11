@@ -13579,7 +13579,42 @@
       "transliteration": "Ovaj prsluk, dodaje teksturu.",
       "category": "Clothes",
       "generated_at": "2026-09-10T22:20:52.585879"
+    },
+    {
+      "english": "Ancient traditions, live on.",
+      "serbian": "Stari običaji, žive i dalje.",
+      "transliteration": "Stari obichaji, zhive i dalje.",
+      "category": "Culture",
+      "generated_at": "2026-09-11T02:55:40.223812"
+    },
+    {
+      "english": "A hearty meal, shared with joy.",
+      "serbian": "Obilan obrok, deli se s radošću.",
+      "transliteration": "Obilan obrok, deli se s radostju.",
+      "category": "Culture",
+      "generated_at": "2026-09-11T02:55:40.223822"
+    },
+    {
+      "english": "The fiddler's tune, makes feet dance.",
+      "serbian": "Gajdaševa melodija, tera noge da igraju.",
+      "transliteration": "Gajdasheva melodija, tera noge da igraju.",
+      "category": "Culture",
+      "generated_at": "2026-09-11T02:55:40.223823"
+    },
+    {
+      "english": "Every village, has its own spirit.",
+      "serbian": "Svako selo, ima svoj duh.",
+      "transliteration": "Svako selo, ima svoj duh.",
+      "category": "Culture",
+      "generated_at": "2026-09-11T02:55:40.223824"
+    },
+    {
+      "english": "A warm welcome, always awaits.",
+      "serbian": "Topao doček, uvek čeka.",
+      "transliteration": "Topao doček, uvek čeka.",
+      "category": "Culture",
+      "generated_at": "2026-09-11T02:55:40.223826"
     }
   ],
-  "last_updated": "2026-09-10T22:20:52.585880"
+  "last_updated": "2026-09-11T02:55:40.223827"
 }
