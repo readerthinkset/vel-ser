@@ -13684,7 +13684,42 @@
       "transliteration": "Ova tekstura, je fascinantna, zaista.",
       "category": "Shopping",
       "generated_at": "2026-09-11T17:42:16.090015"
+    },
+    {
+      "english": "Sky, a painter's canvas, today.",
+      "serbian": "Nebo, slikarsko platno, danas.",
+      "transliteration": "Nebo, slikarsko platno, danas.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T19:21:38.176121"
+    },
+    {
+      "english": "Air, smells of damp earth.",
+      "serbian": "Vazduh, miriše na vlažnu zemlju.",
+      "transliteration": "Vazduh, miriše na vlažnu zemlju.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T19:21:38.176131"
+    },
+    {
+      "english": "Sunbeams, dancing on water.",
+      "serbian": "Sunčevi zraci, plešu na vodi.",
+      "transliteration": "Sunčevi zraci, plešu na vodi.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T19:21:38.176132"
+    },
+    {
+      "english": "Clouds, like scattered sheep.",
+      "serbian": "Oblaci, kao rasute ovce.",
+      "transliteration": "Oblaci, kao rasute ovce.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T19:21:38.176134"
+    },
+    {
+      "english": "Wind, a playful whisper.",
+      "serbian": "Vetar, razigran šapat.",
+      "transliteration": "Vetar, razigran šapat.",
+      "category": "Weather",
+      "generated_at": "2026-09-11T19:21:38.176135"
     }
   ],
-  "last_updated": "2026-09-11T17:42:16.090016"
+  "last_updated": "2026-09-11T19:21:38.176137"
 }
