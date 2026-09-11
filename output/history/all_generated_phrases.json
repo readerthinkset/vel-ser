@@ -13719,7 +13719,42 @@
       "transliteration": "Vetar, razigran šapat.",
       "category": "Weather",
       "generated_at": "2026-09-11T19:21:38.176135"
+    },
+    {
+      "english": "Ready for the day's tasks, perhaps?",
+      "serbian": "Spremni za današnje zadatke, možda?",
+      "transliteration": "Sprem-nee zah dah-nash-nye zah-tah-keh, mohzh-dah?",
+      "category": "Work",
+      "generated_at": "2026-09-11T22:20:23.306212"
+    },
+    {
+      "english": "Let's get to work, shall we?",
+      "serbian": "Idemo na posao, hoćemo li?",
+      "transliteration": "Ee-deh-moh nah poh-soh, hoh-cheh-moh lee?",
+      "category": "Work",
+      "generated_at": "2026-09-11T22:20:23.306226"
+    },
+    {
+      "english": "What's the priority, right now?",
+      "serbian": "Šta je prioritet, baš sada?",
+      "transliteration": "Shtah ee pree-oh-ree-tet, bahsh sah-dah?",
+      "category": "Work",
+      "generated_at": "2026-09-11T22:20:23.306228"
+    },
+    {
+      "english": "This needs attention, quickly.",
+      "serbian": "Ovo treba pažnju, brzo.",
+      "transliteration": "Oh-voh treh-bah pahzh-nyoo, brrzoh.",
+      "category": "Work",
+      "generated_at": "2026-09-11T22:20:23.306230"
+    },
+    {
+      "english": "We have a deadline, approaching.",
+      "serbian": "Imamo rok, koji se bliži.",
+      "transliteration": "Ee-mah-moh rohk, koh-yee seh blee-zhee.",
+      "category": "Work",
+      "generated_at": "2026-09-11T22:20:23.306231"
     }
   ],
-  "last_updated": "2026-09-11T19:21:38.176137"
+  "last_updated": "2026-09-11T22:20:23.306233"
 }
