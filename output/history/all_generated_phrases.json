@@ -13754,7 +13754,42 @@
       "transliteration": "Ee-mah-moh rohk, koh-yee seh blee-zhee.",
       "category": "Work",
       "generated_at": "2026-09-11T22:20:23.306231"
+    },
+    {
+      "english": "A striped zebra, grazes peacefully.",
+      "serbian": "Prugasta zebra, mirno pase.",
+      "transliteration": "Prugasta zebra, mirno pase.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T03:02:53.862418"
+    },
+    {
+      "english": "The playful otter, dives swiftly.",
+      "serbian": "Razigrani vidra, roni brzo.",
+      "transliteration": "Razigrani vidra, roni brzo.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T03:02:53.862432"
+    },
+    {
+      "english": "A fluffy sheep, baas softly.",
+      "serbian": "Mekana ovca, bleji tiho.",
+      "transliteration": "Mekana ovca, bleji tiho.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T03:02:53.862433"
+    },
+    {
+      "english": "The proud eagle, soars high.",
+      "serbian": "Ponosan orao, leti visoko.",
+      "transliteration": "Ponosan orao, leti visoko.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T03:02:53.862434"
+    },
+    {
+      "english": "A sleepy koala, hugs a branch.",
+      "serbian": "Snažna koala, grli granu.",
+      "transliteration": "Snažna koala, grli granu.",
+      "category": "Animals",
+      "generated_at": "2026-09-12T03:02:53.862436"
     }
   ],
-  "last_updated": "2026-09-11T22:20:23.306233"
+  "last_updated": "2026-09-12T03:02:53.862437"
 }
