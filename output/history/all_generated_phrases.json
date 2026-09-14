@@ -14139,7 +14139,42 @@
       "transliteration": "Sat ot-ku-cha-va, i-de dal-ye.",
       "category": "Time",
       "generated_at": "2026-09-14T03:16:47.672252"
+    },
+    {
+      "english": "Feel the sunlight, on your skin.",
+      "serbian": "Oseti sunčevu svetlost, na koži.",
+      "transliteration": "Oseti suncevu svetlost, na kozi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T17:41:35.093508"
+    },
+    {
+      "english": "Hear the birds sing, a sweet song.",
+      "serbian": "Čuj ptice kako pevaju, slatku pesmu.",
+      "transliteration": "Chuy ptitse kako pevaju, slatku pesmu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T17:41:35.093520"
+    },
+    {
+      "english": "Notice the colors, all around.",
+      "serbian": "Primećuj boje, svuda oko sebe.",
+      "transliteration": "Primechuy boje, svuda oko sebe.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T17:41:35.093522"
+    },
+    {
+      "english": "Taste the moment, fully now.",
+      "serbian": "Oseti ukus trenutka, potpuno sada.",
+      "transliteration": "Oseti ukus trenutka, potpuno sada.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T17:41:35.093523"
+    },
+    {
+      "english": "Your body is here, breathing in.",
+      "serbian": "Tvoje telo je ovde, udahni duboko.",
+      "transliteration": "Tvoje telo je ovde, udahni duboko.",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-14T17:41:35.093525"
     }
   ],
-  "last_updated": "2026-09-14T03:16:47.672254"
+  "last_updated": "2026-09-14T17:41:35.093527"
 }
