@@ -14419,7 +14419,42 @@
       "transliteration": "Ponudi uvo, za slušanje, slobodno.",
       "category": "Kindness",
       "generated_at": "2026-09-15T19:55:03.574730"
+    },
+    {
+      "english": "This yogurt, is wonderfully tart.",
+      "serbian": "Ovaj jogurt, divno je kiselkast.",
+      "transliteration": "Ovaj yogurt, divno ye kisal Kast.",
+      "category": "Food",
+      "generated_at": "2026-09-15T22:46:29.465117"
+    },
+    {
+      "english": "A crisp apple, for my snack.",
+      "serbian": "Jedna hrskava jabuka, za moju užinu.",
+      "transliteration": "Yedna hrskava yabuka, za moyu uzhinu.",
+      "category": "Food",
+      "generated_at": "2026-09-15T22:46:29.465126"
+    },
+    {
+      "english": "The warm bread, smells like heaven.",
+      "serbian": "Miris toplog hleba, kao iz raja.",
+      "transliteration": "Miris toplog hleba, kao iz raya.",
+      "category": "Food",
+      "generated_at": "2026-09-15T22:46:29.465127"
+    },
+    {
+      "english": "A bit of honey, so sweet.",
+      "serbian": "Malo meda, baš slatko.",
+      "transliteration": "Malo meda, bash slatko.",
+      "category": "Food",
+      "generated_at": "2026-09-15T22:46:29.465129"
+    },
+    {
+      "english": "This juicy peach, a summer treat.",
+      "serbian": "Ova sočna breskva, letnji užitak.",
+      "transliteration": "Ova soshna breshkva, letni yuzhitak.",
+      "category": "Food",
+      "generated_at": "2026-09-15T22:46:29.465130"
     }
   ],
-  "last_updated": "2026-09-15T19:55:03.574732"
+  "last_updated": "2026-09-15T22:46:29.465132"
 }
