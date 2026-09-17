@@ -14594,7 +14594,42 @@
       "transliteration": "Tako živopisne, boje ovde.",
       "category": "Travel",
       "generated_at": "2026-09-16T22:43:46.904387"
+    },
+    {
+      "english": "My wallet, vanished. Need help.",
+      "serbian": "Novčanik, nestao. Treba pomoć.",
+      "transliteration": "Novchanik, nestao. Treba pomoch.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T03:20:28.774712"
+    },
+    {
+      "english": "Sudden heat, I feel unwell.",
+      "serbian": "Iznenadna vrućina, loše mi je.",
+      "transliteration": "Iznadna vruchina, loshe mi je.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T03:20:28.774722"
+    },
+    {
+      "english": "Fire, over there! We must leave.",
+      "serbian": "Vatra, tamo! Moramo ići.",
+      "transliteration": "Vatra, tamo! Moramo ići.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T03:20:28.774724"
+    },
+    {
+      "english": "I've lost my child. Please look.",
+      "serbian": "Izgubio sam dete. Molim, gledajte.",
+      "transliteration": "Izgubio sam dete. Molim, gledajte.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T03:20:28.774726"
+    },
+    {
+      "english": "This building, is unsafe. Evacuate.",
+      "serbian": "Ova zgrada, nije sigurna. Evakuišite se.",
+      "transliteration": "Ova zgrada, nije sigurna. Evakuišite se.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T03:20:28.774727"
     }
   ],
-  "last_updated": "2026-09-16T22:43:46.904389"
+  "last_updated": "2026-09-17T03:20:28.774729"
 }
