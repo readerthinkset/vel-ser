@@ -14629,7 +14629,42 @@
       "transliteration": "Ova zgrada, nije sigurna. Evakuišite se.",
       "category": "Emergency",
       "generated_at": "2026-09-17T03:20:28.774727"
+    },
+    {
+      "english": "Light up your path, bravely.",
+      "serbian": "Osvetli svoj put, hrabro.",
+      "transliteration": "Osvetli svoj put, hrabro.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-17T16:14:17.119697"
+    },
+    {
+      "english": "Listen to your heart's song.",
+      "serbian": "Slušaj pesmu svog srca.",
+      "transliteration": "Slušaj pesmu svog srca.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-17T16:14:17.119707"
+    },
+    {
+      "english": "Bloom where you are, today.",
+      "serbian": "Cvetaj gde si, danas.",
+      "transliteration": "Cvetaj gde si, danas.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-17T16:14:17.119708"
+    },
+    {
+      "english": "Find peace, in quiet moments.",
+      "serbian": "Nađi mir, u tihim trenucima.",
+      "transliteration": "Nađi mir, u tihim trenucima.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-17T16:14:17.119709"
+    },
+    {
+      "english": "Breathe deep, let worries go.",
+      "serbian": "Diši duboko, pusti brige.",
+      "transliteration": "Diši duboko, pusti brige.",
+      "category": "Positive Life",
+      "generated_at": "2026-09-17T16:14:17.119710"
     }
   ],
-  "last_updated": "2026-09-17T03:20:28.774729"
+  "last_updated": "2026-09-17T16:14:17.119712"
 }
