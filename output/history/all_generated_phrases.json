@@ -14769,7 +14769,42 @@
       "transliteration": "Govori srpski, sa ponosom.",
       "category": "Success",
       "generated_at": "2026-09-17T22:44:08.803383"
+    },
+    {
+      "english": "You really came through, wow.",
+      "serbian": "Baš si pomogao, baš.",
+      "transliteration": "Bash si pomogao, bash.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T03:06:47.833603"
+    },
+    {
+      "english": "My heart is full, thanks.",
+      "serbian": "Srce mi je puno, hvala.",
+      "transliteration": "Srce mi je puno, hvala.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T03:06:47.833616"
+    },
+    {
+      "english": "This was just what I needed.",
+      "serbian": "Ovo je baš ono što treba.",
+      "transliteration": "Ovo je bash ono shto treba.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T03:06:47.833618"
+    },
+    {
+      "english": "Your generosity, shines.",
+      "serbian": "Tvoja velikodušnost, sija.",
+      "transliteration": "Tvoja velikodushnost, sija.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T03:06:47.833619"
+    },
+    {
+      "english": "I'm so glad you're here.",
+      "serbian": "Tako mi je drago, što si tu.",
+      "transliteration": "Tako mi je drago, shto si tu.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-18T03:06:47.833621"
     }
   ],
-  "last_updated": "2026-09-17T22:44:08.803385"
+  "last_updated": "2026-09-18T03:06:47.833623"
 }
