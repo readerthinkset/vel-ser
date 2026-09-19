@@ -15049,7 +15049,42 @@
       "transliteration": "Arkticki mraz, bled plavicasto leden.",
       "category": "Colors",
       "generated_at": "2026-09-19T17:08:47.275611"
+    },
+    {
+      "english": "The pendulum swings, back and forth.",
+      "serbian": "Klatno se njiše, tamo i ovamo.",
+      "transliteration": "Klatno se nji-she, ta-mo i o-va-mo.",
+      "category": "Time",
+      "generated_at": "2026-09-19T19:03:58.257443"
+    },
+    {
+      "english": "A moment's pause, before the leap.",
+      "serbian": "Trenutak predaha, pre skoka.",
+      "transliteration": "Tsu-re-nutak pre-da-ha, pre skoka.",
+      "category": "Time",
+      "generated_at": "2026-09-19T19:03:58.257454"
+    },
+    {
+      "english": "Future whispers, to the present.",
+      "serbian": "Budućnost šapuće, sadašnjosti.",
+      "transliteration": "Bu-duć-nost sha-pu-che, sa-da-šnjosti.",
+      "category": "Time",
+      "generated_at": "2026-09-19T19:03:58.257455"
+    },
+    {
+      "english": "Time flows, like a river.",
+      "serbian": "Vreme teče, kao reka.",
+      "transliteration": "Vre-me te-che, ka-o re-ka.",
+      "category": "Time",
+      "generated_at": "2026-09-19T19:03:58.257456"
+    },
+    {
+      "english": "When the stars align, act.",
+      "serbian": "Kad se zvezde poklope, deluj.",
+      "transliteration": "Kad se zvez-de po-klo-pe, de-luj.",
+      "category": "Time",
+      "generated_at": "2026-09-19T19:03:58.257457"
     }
   ],
-  "last_updated": "2026-09-19T17:08:47.275613"
+  "last_updated": "2026-09-19T19:03:58.257458"
 }
