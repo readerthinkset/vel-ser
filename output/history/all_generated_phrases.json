@@ -15084,7 +15084,42 @@
       "transliteration": "Kad se zvez-de po-klo-pe, de-luj.",
       "category": "Time",
       "generated_at": "2026-09-19T19:03:58.257457"
+    },
+    {
+      "english": "Dad’s stories, from long ago.",
+      "serbian": "Očeve priče, iz davnina.",
+      "transliteration": "Ocheve price, iz davnina.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-19T22:13:55.363383"
+    },
+    {
+      "english": "Mom’s presence, a calming wave.",
+      "serbian": "Majčina prisutnost, smirujući talas.",
+      "transliteration": "Majchina prisutnost, smirujuci talas.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-19T22:13:55.363393"
+    },
+    {
+      "english": "Brother’s mischief, always unexpected.",
+      "serbian": "Bratov nestašluk, uvek neočekivan.",
+      "transliteration": "Bratov nestashluk, uvek neocekivan.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-19T22:13:55.363395"
+    },
+    {
+      "english": "Sister’s gaze, full of wonder.",
+      "serbian": "Sestrin pogled, pun čuđenja.",
+      "transliteration": "Sestrin pogled, pun cudenja.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-19T22:13:55.363396"
+    },
+    {
+      "english": "Grandma’s hands, weaving memories.",
+      "serbian": "Bakin dlan, tka uspomene.",
+      "transliteration": "Bakin dlan, tka uspomene.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-19T22:13:55.363397"
     }
   ],
-  "last_updated": "2026-09-19T19:03:58.257458"
+  "last_updated": "2026-09-19T22:13:55.363399"
 }
