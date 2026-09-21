@@ -15364,7 +15364,42 @@
       "transliteration": "Nežna bruka, sreće.",
       "category": "Feelings",
       "generated_at": "2026-09-21T17:52:04.254161"
+    },
+    {
+      "english": "This scarf, is so warm.",
+      "serbian": "Ovaj šal, je tako topao.",
+      "transliteration": "Ovaj shal, ye tako topao.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T19:16:29.313143"
+    },
+    {
+      "english": "Her dress, has pockets.",
+      "serbian": "Njena haljina, ima džepove.",
+      "transliteration": "Njena haljina, ima dzepove.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T19:16:29.313154"
+    },
+    {
+      "english": "These shoes, are very stylish.",
+      "serbian": "Ove cipele, su veoma moderne.",
+      "transliteration": "Ove cipele, su veoma moderne.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T19:16:29.313156"
+    },
+    {
+      "english": "I need a new shirt, for work.",
+      "serbian": "Treba mi nova košulja, za posao.",
+      "transliteration": "Treba mi nova koshulja, za posao.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T19:16:29.313156"
+    },
+    {
+      "english": "His jacket, looks very cool.",
+      "serbian": "Njegova jakna, izgleda baš kul.",
+      "transliteration": "Njegova jakna, izgleda bash kul.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T19:16:29.313157"
     }
   ],
-  "last_updated": "2026-09-21T17:52:04.254163"
+  "last_updated": "2026-09-21T19:16:29.313159"
 }
