@@ -15539,7 +15539,42 @@
       "transliteration": "Izmišljaj, novim algoritmima.",
       "category": "Technology",
       "generated_at": "2026-09-22T16:16:53.137045"
+    },
+    {
+      "english": "One moment, please. ... I'll be right back.",
+      "serbian": "Jedan trenutak, molim. ... Odmah se vraćam.",
+      "transliteration": "Yedan trenutak, molim. ... Odmah se vraćam.",
+      "category": "Numbers",
+      "generated_at": "2026-09-22T18:02:13.696556"
+    },
+    {
+      "english": "Two cups, ... for our tea.",
+      "serbian": "Dve šolje, ... za naš čaj.",
+      "transliteration": "Dve sholje, ... za naš čaj.",
+      "category": "Numbers",
+      "generated_at": "2026-09-22T18:02:13.696572"
+    },
+    {
+      "english": "Three new books, ... on the shelf.",
+      "serbian": "Tri nove knjige, ... na polici.",
+      "transliteration": "Tri nove knjige, ... na polici.",
+      "category": "Numbers",
+      "generated_at": "2026-09-22T18:02:13.696574"
+    },
+    {
+      "english": "Four seasons, ... a year passes.",
+      "serbian": "Četiri godišnja doba, ... godina prolazi.",
+      "transliteration": "Chetirri godišnja doba, ... godina prolazi.",
+      "category": "Numbers",
+      "generated_at": "2026-09-22T18:02:13.696575"
+    },
+    {
+      "english": "Five friends, ... met for lunch.",
+      "serbian": "Pet prijatelja, ... srelo se na ručku.",
+      "transliteration": "Pet prijatelja, ... srelo se na ručku.",
+      "category": "Numbers",
+      "generated_at": "2026-09-22T18:02:13.696577"
     }
   ],
-  "last_updated": "2026-09-22T16:16:53.137046"
+  "last_updated": "2026-09-22T18:02:13.696579"
 }
