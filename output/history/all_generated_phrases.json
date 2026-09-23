@@ -15714,7 +15714,42 @@
       "transliteration": "Tvoy red, bla-go.",
       "category": "Confidence",
       "generated_at": "2026-09-23T16:05:56.676802"
+    },
+    {
+      "english": "Morning mist, rising slow.",
+      "serbian": "Jutarnja magla, diže se polako.",
+      "transliteration": "Yoo-tarn-ya mah-gla, dee-zheh seh poh-lah-koh.",
+      "category": "Culture",
+      "generated_at": "2026-09-23T18:21:48.462045"
+    },
+    {
+      "english": "Church dome, catching light.",
+      "serbian": "Crkveni krst, hvata svetlost.",
+      "transliteration": "Tsherk-veh-nee krst, hvah-tah svet-lost.",
+      "category": "Culture",
+      "generated_at": "2026-09-23T18:21:48.462058"
+    },
+    {
+      "english": "River bend, secrets kept.",
+      "serbian": "Reka vijuga, čuva tajne.",
+      "transliteration": "Reh-kah vee-yoo-gah, choo-vah tay-neh.",
+      "category": "Culture",
+      "generated_at": "2026-09-23T18:21:48.462060"
+    },
+    {
+      "english": "Old well, thirst quenched.",
+      "serbian": "Stara česma, žeđ ugašena.",
+      "transliteration": "Stah-rah ches-mah, zheh-d oo-gah-sheh-nah.",
+      "category": "Culture",
+      "generated_at": "2026-09-23T18:21:48.462061"
+    },
+    {
+      "english": "Vineyard row, sun-kissed.",
+      "serbian": "Vinograd niz, suncem okupana.",
+      "transliteration": "Vee-noh-grahd neez, soon-tsem oh-koo-pah-nah.",
+      "category": "Culture",
+      "generated_at": "2026-09-23T18:21:48.462063"
     }
   ],
-  "last_updated": "2026-09-23T16:05:56.676803"
+  "last_updated": "2026-09-23T18:21:48.462065"
 }
