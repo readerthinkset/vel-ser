@@ -15749,7 +15749,42 @@
       "transliteration": "Vee-noh-grahd neez, soon-tsem oh-koo-pah-nah.",
       "category": "Culture",
       "generated_at": "2026-09-23T18:21:48.462063"
+    },
+    {
+      "english": "This material, feels so authentic.",
+      "serbian": "Ovaj materijal, deluje autentično.",
+      "transliteration": "Ovaj materijal, deluje autentično.",
+      "category": "Shopping",
+      "generated_at": "2026-09-23T19:55:12.863620"
+    },
+    {
+      "english": "Could I, perhaps, see that one?",
+      "serbian": "Mogu li, možda, da vidim ono?",
+      "transliteration": "Mogu li, možda, da vidim ono?",
+      "category": "Shopping",
+      "generated_at": "2026-09-23T19:55:12.863630"
+    },
+    {
+      "english": "Is this, traditionally made?",
+      "serbian": "Da li je ovo, tradicionalno rađeno?",
+      "transliteration": "Da li je ovo, tradicionalno rađeno?",
+      "category": "Shopping",
+      "generated_at": "2026-09-23T19:55:12.863631"
+    },
+    {
+      "english": "I admire, this artistry.",
+      "serbian": "Divim se, ovoj umetnosti.",
+      "transliteration": "Divim se, ovoj umetnosti.",
+      "category": "Shopping",
+      "generated_at": "2026-09-23T19:55:12.863632"
+    },
+    {
+      "english": "Are there, other options, perhaps?",
+      "serbian": "Ima li, drugih opcija, možda?",
+      "transliteration": "Ima li, drugih opcija, možda?",
+      "category": "Shopping",
+      "generated_at": "2026-09-23T19:55:12.863633"
     }
   ],
-  "last_updated": "2026-09-23T18:21:48.462065"
+  "last_updated": "2026-09-23T19:55:12.863635"
 }
