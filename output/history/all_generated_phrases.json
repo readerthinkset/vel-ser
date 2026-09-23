@@ -15679,7 +15679,42 @@
       "transliteration": "Svetliji sutra, dolazi.",
       "category": "Hope",
       "generated_at": "2026-09-23T03:13:52.014193"
+    },
+    {
+      "english": "Just begin, softly.",
+      "serbian": "Samo počni, tiho.",
+      "transliteration": "Samo poch-ni, tee-ho.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T16:05:56.676788"
+    },
+    {
+      "english": "Hear the melody, speak.",
+      "serbian": "Čuj melodiju, govori.",
+      "transliteration": "Chooy meh-lo-dee-yoo, go-vo-ree.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T16:05:56.676799"
+    },
+    {
+      "english": "Try this sound, now.",
+      "serbian": "Probaj ovaj zvuk, sad.",
+      "transliteration": "Pro-bay ov-ayz zvoook, sad.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T16:05:56.676800"
+    },
+    {
+      "english": "Feel the language, flow.",
+      "serbian": "Oseti jezik, teci.",
+      "transliteration": "O-seh-tee yeh-zeek, teh-tsee.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T16:05:56.676801"
+    },
+    {
+      "english": "Your turn, gently.",
+      "serbian": "Tvoj red, blago.",
+      "transliteration": "Tvoy red, bla-go.",
+      "category": "Confidence",
+      "generated_at": "2026-09-23T16:05:56.676802"
     }
   ],
-  "last_updated": "2026-09-23T03:13:52.014195"
+  "last_updated": "2026-09-23T16:05:56.676803"
 }
