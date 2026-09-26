@@ -16274,7 +16274,42 @@
       "transliteration": "Sunčeva svetlost kroz lišće, nežna radost.",
       "category": "Happiness",
       "generated_at": "2026-09-26T19:30:18.803921"
+    },
+    {
+      "english": "This dish, it looks delightful.",
+      "serbian": "Ovo jelo, izgleda divno.",
+      "transliteration": "Ovo yelo, izgledah dyivno.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T22:30:12.081046"
+    },
+    {
+      "english": "Could we get, some more bread?",
+      "serbian": "Može li, još malo hleba?",
+      "transliteration": "Mozeh lee, yosh malo hlebah?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T22:30:12.081059"
+    },
+    {
+      "english": "The waiter, he seemed busy.",
+      "serbian": "Konobar, delovao je zauzet.",
+      "transliteration": "Konobar, delovah yeh zauzet.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T22:30:12.081062"
+    },
+    {
+      "english": "Is there, a vegetarian option?",
+      "serbian": "Ima li, nešto za vegetarijance?",
+      "transliteration": "Yimah lee, neshtoh zah vegetaryantse?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T22:30:12.081063"
+    },
+    {
+      "english": "This wine, pairs well.",
+      "serbian": "Ovo vino, ide dobro.",
+      "transliteration": "Ovo veeno, eedeh dobro.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-26T22:30:12.081064"
     }
   ],
-  "last_updated": "2026-09-26T19:30:18.803922"
+  "last_updated": "2026-09-26T22:30:12.081066"
 }
