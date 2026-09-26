@@ -16204,7 +16204,42 @@
       "transliteration": "Hajde da bacimo, ideje brzo.",
       "category": "Work",
       "generated_at": "2026-09-26T15:45:47.502313"
+    },
+    {
+      "english": "My breath, is short, I need air.",
+      "serbian": "Дишем, кратко, треба ми ваздух.",
+      "transliteration": "Dishem, kratko, treba mi vazduh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T17:43:12.790666"
+    },
+    {
+      "english": "I've lost, my way, can you help?",
+      "serbian": "Изгубио сам, пут, можеш помоћи?",
+      "transliteration": "Izgubio sam, put, mozhesh pomochi?",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T17:43:12.790677"
+    },
+    {
+      "english": "A strange noise, coming from there.",
+      "serbian": "Чудан звук, долази одатле.",
+      "transliteration": "Chudan zvuk, dolazi odatle.",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T17:43:12.790679"
+    },
+    {
+      "english": "I can't feel, my arm, please.",
+      "serbian": "Не осећам, руку, молим.",
+      "transliteration": "Ne osecjam, ruku, molim.",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T17:43:12.790680"
+    },
+    {
+      "english": "Something is wrong, with my head.",
+      "serbian": "Нешто није, у реду, са главом.",
+      "transliteration": "Neoshto nije, u redu, sa glavom.",
+      "category": "Emergency",
+      "generated_at": "2026-09-26T17:43:12.790681"
     }
   ],
-  "last_updated": "2026-09-26T15:45:47.502315"
+  "last_updated": "2026-09-26T17:43:12.790682"
 }
