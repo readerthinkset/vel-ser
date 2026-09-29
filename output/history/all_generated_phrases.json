@@ -16729,7 +16729,42 @@
       "transliteration": "Nežna harfa, svira za nas.",
       "category": "Music",
       "generated_at": "2026-09-29T17:37:33.519461"
+    },
+    {
+      "english": "Six shades, of twilight.",
+      "serbian": "Šest nijansi, sumraka.",
+      "transliteration": "Shest niyan'si, sumraka.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T19:15:45.048558"
+    },
+    {
+      "english": "Seven days, a week's flow.",
+      "serbian": "Sedam dana, protok nedelje.",
+      "transliteration": "Sedam dana, protok nedel'ye.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T19:15:45.048567"
+    },
+    {
+      "english": "Eight steps, towards tomorrow.",
+      "serbian": "Osam koraka, ka sutra.",
+      "transliteration": "Osam koraka, ka sutra.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T19:15:45.048569"
+    },
+    {
+      "english": "Ten fingers, learned to write.",
+      "serbian": "Deset prstiju, naučilo da piše.",
+      "transliteration": "Deset prstiju, nauchilo da pishe.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T19:15:45.048570"
+    },
+    {
+      "english": "Twelve months, a year turns.",
+      "serbian": "Dvanaest meseci, godina se okreće.",
+      "transliteration": "Dvanaest meseci, godina se okreche.",
+      "category": "Numbers",
+      "generated_at": "2026-09-29T19:15:45.048571"
     }
   ],
-  "last_updated": "2026-09-29T17:37:33.519462"
+  "last_updated": "2026-09-29T19:15:45.048573"
 }
