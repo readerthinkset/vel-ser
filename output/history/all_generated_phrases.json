@@ -17079,7 +17079,42 @@
       "transliteration": "Tee see meer, koh-yee sahm oo-vek trah-zhee-oh.",
       "category": "Love",
       "generated_at": "2026-10-01T21:30:53.921108"
+    },
+    {
+      "english": "A quiet hello, can brighten days.",
+      "serbian": "Tihi pozdrav, može ulepšati dane.",
+      "transliteration": "Tihi pozdrav, mozhe ulepshati dane.",
+      "category": "Kindness",
+      "generated_at": "2026-10-01T23:46:21.692124"
+    },
+    {
+      "english": "Share a story, with a friend.",
+      "serbian": "Podeli priču, sa prijateljem.",
+      "transliteration": "Podeli prichu, sa prijateljem.",
+      "category": "Kindness",
+      "generated_at": "2026-10-01T23:46:21.692132"
+    },
+    {
+      "english": "Offer a bit, of your time.",
+      "serbian": "Ponudi deo, svog vremena.",
+      "transliteration": "Ponudi deo, svog vremena.",
+      "category": "Kindness",
+      "generated_at": "2026-10-01T23:46:21.692133"
+    },
+    {
+      "english": "A grateful thought, means a lot.",
+      "serbian": "Zahvalna misao, znači mnogo.",
+      "transliteration": "Zahvalna misao, znachi mnogo.",
+      "category": "Kindness",
+      "generated_at": "2026-10-01T23:46:21.692135"
+    },
+    {
+      "english": "Let good deeds, lead the way.",
+      "serbian": "Neka dobra dela, vode put.",
+      "transliteration": "Neka dobra dela, vode put.",
+      "category": "Kindness",
+      "generated_at": "2026-10-01T23:46:21.692136"
     }
   ],
-  "last_updated": "2026-10-01T21:30:53.921110"
+  "last_updated": "2026-10-01T23:46:21.692138"
 }
