@@ -17114,7 +17114,42 @@
       "transliteration": "Neka dobra dela, vode put.",
       "category": "Kindness",
       "generated_at": "2026-10-01T23:46:21.692136"
+    },
+    {
+      "english": "Hear the question, find the answer.",
+      "serbian": "Čuj pitanje, nađi odgovor.",
+      "transliteration": "Chuy pitanye, nadi odgovor.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:59:13.337934"
+    },
+    {
+      "english": "Repeat after me, carefully.",
+      "serbian": "Ponovi za mnom, pažljivo.",
+      "transliteration": "Ponovi za mnom, pazhljivo.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:59:13.337945"
+    },
+    {
+      "english": "Read this sentence, slowly.",
+      "serbian": "Pročitaj ovu rečenicu, sporo.",
+      "transliteration": "Prochitay ovu reshenitsu, sporo.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:59:13.337947"
+    },
+    {
+      "english": "What comes next, tell me.",
+      "serbian": "Šta ide dalje, reci mi.",
+      "transliteration": "Shta ide dalje, reci mi.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:59:13.337949"
+    },
+    {
+      "english": "Use this word, in a phrase.",
+      "serbian": "Upotrebi ovu reč, u frazi.",
+      "transliteration": "Upotrebi ovu rech, u frazi.",
+      "category": "Directions",
+      "generated_at": "2026-10-02T03:59:13.337950"
     }
   ],
-  "last_updated": "2026-10-01T23:46:21.692138"
+  "last_updated": "2026-10-02T03:59:13.337951"
 }
