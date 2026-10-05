@@ -17709,7 +17709,42 @@
       "transliteration": "Malo meda, sipajte.",
       "category": "Food",
       "generated_at": "2026-10-05T21:30:31.415750"
+    },
+    {
+      "english": "Morning huddle, quick check-in.",
+      "serbian": "Jutarnji sastanak, brza provera.",
+      "transliteration": "Jutarnji sastanak, brza provera.",
+      "category": "Work",
+      "generated_at": "2026-10-05T22:59:34.577739"
+    },
+    {
+      "english": "Let's align, on this project.",
+      "serbian": "Da se usaglasimo, oko ovog projekta.",
+      "transliteration": "Da se usaglasimo, oko ovog projekta.",
+      "category": "Work",
+      "generated_at": "2026-10-05T22:59:34.577749"
+    },
+    {
+      "english": "Your thoughts, on the next step?",
+      "serbian": "Tvoji stavovi, o sledećem koraku?",
+      "transliteration": "Tvoji stavovi, o sledećem koraku?",
+      "category": "Work",
+      "generated_at": "2026-10-05T22:59:34.577750"
+    },
+    {
+      "english": "Team, gather 'round, please.",
+      "serbian": "Tim, okupite se, molim vas.",
+      "transliteration": "Tim, okupite se, molim vas.",
+      "category": "Work",
+      "generated_at": "2026-10-05T22:59:34.577752"
+    },
+    {
+      "english": "Progress report, due by noon.",
+      "serbian": "Izveštaj o napretku, do podneva.",
+      "transliteration": "Izveštaj o napretku, do podneva.",
+      "category": "Work",
+      "generated_at": "2026-10-05T22:59:34.577753"
     }
   ],
-  "last_updated": "2026-10-05T21:30:31.415752"
+  "last_updated": "2026-10-05T22:59:34.577755"
 }
