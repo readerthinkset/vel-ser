@@ -17674,7 +17674,42 @@
       "transliteration": "Ovaj hleb, tek ye pechen.",
       "category": "Restaurant",
       "generated_at": "2026-10-05T03:57:47.016907"
+    },
+    {
+      "english": "Mmm, these dumplings, so fluffy.",
+      "serbian": "Ммм, кнедле, баш су пухасте.",
+      "transliteration": "Mmm, knedle, bash su puhaste.",
+      "category": "Food",
+      "generated_at": "2026-10-05T21:30:31.415737"
+    },
+    {
+      "english": "A crunch, of that pickle.",
+      "serbian": "Крцкање, од те киселине.",
+      "transliteration": "Krckanje, od te kiseline.",
+      "category": "Food",
+      "generated_at": "2026-10-05T21:30:31.415746"
+    },
+    {
+      "english": "This cheese, it's sharp.",
+      "serbian": "Овај сир, баш је љут.",
+      "transliteration": "Ovaj sir, bash je ljut.",
+      "category": "Food",
+      "generated_at": "2026-10-05T21:30:31.415748"
+    },
+    {
+      "english": "Oh, that paprika, it's smoky.",
+      "serbian": "Ах, та паприка, баш је димљена.",
+      "transliteration": "Ah, ta paprika, bash je dimljena.",
+      "category": "Food",
+      "generated_at": "2026-10-05T21:30:31.415749"
+    },
+    {
+      "english": "A drizzle, of honey, please.",
+      "serbian": "Мало меда, сипајте.",
+      "transliteration": "Malo meda, sipajte.",
+      "category": "Food",
+      "generated_at": "2026-10-05T21:30:31.415750"
     }
   ],
-  "last_updated": "2026-10-05T03:57:47.016909"
+  "last_updated": "2026-10-05T21:30:31.415752"
 }
