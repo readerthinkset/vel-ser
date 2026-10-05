@@ -17639,7 +17639,42 @@
       "transliteration": "Osetite ritam, izgovorenih reči.",
       "category": "Inspiration",
       "generated_at": "2026-10-04T22:53:32.941386"
+    },
+    {
+      "english": "Could I have, a glass of local wine?",
+      "serbian": "Mogu li, čašu domaćeg vina?",
+      "transliteration": "Mogu li, chasu domacheg vina?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-05T03:57:47.016892"
+    },
+    {
+      "english": "This soup, it's very hearty.",
+      "serbian": "Ova supa, baš je zasitna.",
+      "transliteration": "Ova supa, bash ye zasitna.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-05T03:57:47.016902"
+    },
+    {
+      "english": "What's good, for a light lunch?",
+      "serbian": "Šta je dobro, za lagani ručak?",
+      "transliteration": "Shta ye dobro, za lagani ruchak?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-05T03:57:47.016904"
+    },
+    {
+      "english": "Do you have, any local cheeses?",
+      "serbian": "Imate li, neke domaće sireve?",
+      "transliteration": "Imate li, neke domache sireve?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-05T03:57:47.016906"
+    },
+    {
+      "english": "This bread, it's freshly baked.",
+      "serbian": "Ovaj hleb, tek je pečen.",
+      "transliteration": "Ovaj hleb, tek ye pechen.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-05T03:57:47.016907"
     }
   ],
-  "last_updated": "2026-10-04T22:53:32.941388"
+  "last_updated": "2026-10-05T03:57:47.016909"
 }
