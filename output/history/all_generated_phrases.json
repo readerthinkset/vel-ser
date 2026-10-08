@@ -18059,7 +18059,42 @@
       "transliteration": "Rech, iz Srbi-ye, za te-be.",
       "category": "Greetings",
       "generated_at": "2026-10-07T21:48:13.819691"
+    },
+    {
+      "english": "Listen, and repeat, this sound.",
+      "serbian": "Slušaj, i ponovi, ovaj zvuk.",
+      "transliteration": "Slooshai, ee ponovi, ovai zvook.",
+      "category": "Directions",
+      "generated_at": "2026-10-08T00:04:05.009915"
+    },
+    {
+      "english": "Try saying this, slowly.",
+      "serbian": "Pokušaj da kažeš, ovo, polako.",
+      "transliteration": "Poku'shai da kazhesh, ovo, polako.",
+      "category": "Directions",
+      "generated_at": "2026-10-08T00:04:05.009928"
+    },
+    {
+      "english": "What does this mean, friend?",
+      "serbian": "Šta ovo znači, prijatelju?",
+      "transliteration": "Shta ovo znachi, priiatel'yu?",
+      "category": "Directions",
+      "generated_at": "2026-10-08T00:04:05.009929"
+    },
+    {
+      "english": "Form a sentence, now.",
+      "serbian": "Sastavi rečenicu, odmah.",
+      "transliteration": "Sastavi rech'enitsu, odmah.",
+      "category": "Directions",
+      "generated_at": "2026-10-08T00:04:05.009929"
+    },
+    {
+      "english": "Think of a word, any word.",
+      "serbian": "Zamislite reč, bilo koju.",
+      "transliteration": "Zamislite rech, bilo koju.",
+      "category": "Directions",
+      "generated_at": "2026-10-08T00:04:05.009930"
     }
   ],
-  "last_updated": "2026-10-07T21:48:13.819692"
+  "last_updated": "2026-10-08T00:04:05.009931"
 }
