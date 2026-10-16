@@ -19599,7 +19599,42 @@
       "transliteration": "Tiha zora, razbija noć.",
       "category": "Hope",
       "generated_at": "2026-10-16T19:45:50.587273"
+    },
+    {
+      "english": "This soup, tastes like grandma's.",
+      "serbian": "Ova supa, kao bakina.",
+      "transliteration": "Ova supa, kao bakina.",
+      "category": "Food",
+      "generated_at": "2026-10-16T22:40:25.107148"
+    },
+    {
+      "english": "A bit, of salty cheese.",
+      "serbian": "Malo, slanog sira.",
+      "transliteration": "Malo, slanog sira.",
+      "category": "Food",
+      "generated_at": "2026-10-16T22:40:25.107158"
+    },
+    {
+      "english": "Fresh bread, still warm.",
+      "serbian": "Svež hleb, još topao.",
+      "transliteration": "Svež hleb, još topao.",
+      "category": "Food",
+      "generated_at": "2026-10-16T22:40:25.107159"
+    },
+    {
+      "english": "That pastry, oh so flaky.",
+      "serbian": "Ono testo, baš lisnato.",
+      "transliteration": "Ono testo, baš lisnato.",
+      "category": "Food",
+      "generated_at": "2026-10-16T22:40:25.107160"
+    },
+    {
+      "english": "A hearty stew, perfect for winter.",
+      "serbian": "Glavno jelo, zimi prija.",
+      "transliteration": "Glavno jelo, zimi prija.",
+      "category": "Food",
+      "generated_at": "2026-10-16T22:40:25.107160"
     }
   ],
-  "last_updated": "2026-10-16T19:45:50.587274"
+  "last_updated": "2026-10-16T22:40:25.107162"
 }
