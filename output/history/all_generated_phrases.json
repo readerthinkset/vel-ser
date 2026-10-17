@@ -19704,7 +19704,42 @@
       "transliteration": "Cvrčak cvrči, u travi.",
       "category": "Animals",
       "generated_at": "2026-10-17T14:57:12.108260"
+    },
+    {
+      "english": "A blink, then gone.",
+      "serbian": "Трепнеш, и прође.",
+      "transliteration": "Trepeš, i prođe.",
+      "category": "Time",
+      "generated_at": "2026-10-17T16:58:02.463829"
+    },
+    {
+      "english": "The seconds, they fly.",
+      "serbian": "Секунде, оне лете.",
+      "transliteration": "Sekunde, one lete.",
+      "category": "Time",
+      "generated_at": "2026-10-17T16:58:02.463837"
+    },
+    {
+      "english": "Give it some time.",
+      "serbian": "Дај му времена.",
+      "transliteration": "Daj mu vremena.",
+      "category": "Time",
+      "generated_at": "2026-10-17T16:58:02.463838"
+    },
+    {
+      "english": "Wait a bit, okay?",
+      "serbian": "Сачекај мало, добро?",
+      "transliteration": "Sačekaj malo, dobro?",
+      "category": "Time",
+      "generated_at": "2026-10-17T16:58:02.463839"
+    },
+    {
+      "english": "Time marches on.",
+      "serbian": "Време корача.",
+      "transliteration": "Vreme korača.",
+      "category": "Time",
+      "generated_at": "2026-10-17T16:58:02.463840"
     }
   ],
-  "last_updated": "2026-10-17T14:57:12.108262"
+  "last_updated": "2026-10-17T16:58:02.463841"
 }
