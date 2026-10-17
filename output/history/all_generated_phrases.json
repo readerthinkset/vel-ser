@@ -19634,7 +19634,42 @@
       "transliteration": "Glavno jelo, zimi prija.",
       "category": "Food",
       "generated_at": "2026-10-16T22:40:25.107160"
+    },
+    {
+      "english": "Dandelion fluff, sunny yellow burst.",
+      "serbian": "Maslačkov puh, sunčano žuti prasak.",
+      "transliteration": "Maslachkov puh, sunchano zhuti prasak.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T02:55:56.810581"
+    },
+    {
+      "english": "Pomegranate seeds, juicy crimson gleam.",
+      "serbian": "Šipak semenke, sočni grimizni sjaj.",
+      "transliteration": "Shipak semenke, sochni grimizni sjaj.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T02:55:56.810592"
+    },
+    {
+      "english": "Fallen leaves, russet and gold.",
+      "serbian": "Opalo lišće, riđkasto i zlatno.",
+      "transliteration": "Opalo lisje, ridjkasto i zlatno.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T02:55:56.810594"
+    },
+    {
+      "english": "Lavender fields, gentle purple haze.",
+      "serbian": "Polja lavande, blaga ljubičasta izmaglica.",
+      "transliteration": "Polja lavande, blaga ljubichasta izmaglica.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T02:55:56.810595"
+    },
+    {
+      "english": "Freshly baked bread, warm golden crust.",
+      "serbian": "Sveže pečen hleb, topla zlatna kora.",
+      "transliteration": "Svezhe pechen hleb, topla zlatna kora.",
+      "category": "Colors",
+      "generated_at": "2026-10-17T02:55:56.810597"
     }
   ],
-  "last_updated": "2026-10-16T22:40:25.107162"
+  "last_updated": "2026-10-17T02:55:56.810598"
 }
