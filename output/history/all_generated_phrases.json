@@ -19669,7 +19669,42 @@
       "transliteration": "Svezhe pechen hleb, topla zlatna kora.",
       "category": "Colors",
       "generated_at": "2026-10-17T02:55:56.810597"
+    },
+    {
+      "english": "A wise owl, watches the night.",
+      "serbian": "Мудра сова, посматра ноћ.",
+      "transliteration": "Mudra sova, posmatra noć.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T14:57:12.108242"
+    },
+    {
+      "english": "A tiny mouse, scurries away.",
+      "serbian": "Сићушан миш, бежи брзо.",
+      "transliteration": "Sićušan miš, beži brzo.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T14:57:12.108254"
+    },
+    {
+      "english": "A buzzing fly, lands on fruit.",
+      "serbian": "Зујећа мува, слеће на воће.",
+      "transliteration": "Zujeća muva, sleće na voće.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T14:57:12.108257"
+    },
+    {
+      "english": "A lumbering bear, searches for honey.",
+      "serbian": "Тром медвед, тражи мед.",
+      "transliteration": "Trom medved, traži med.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T14:57:12.108258"
+    },
+    {
+      "english": "A chirping cricket, sings in grass.",
+      "serbian": "Цврчак цврчи, у трави.",
+      "transliteration": "Cvrčak cvrči, u travi.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T14:57:12.108260"
     }
   ],
-  "last_updated": "2026-10-17T02:55:56.810598"
+  "last_updated": "2026-10-17T14:57:12.108262"
 }
