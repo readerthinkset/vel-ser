@@ -19879,7 +19879,42 @@
       "transliteration": "Njegov kaput, shtiti od vetra.",
       "category": "Clothes",
       "generated_at": "2026-10-18T15:23:12.401987"
+    },
+    {
+      "english": "Sun warms the stones, slowly.",
+      "serbian": "Sunce greje kamenje, polako.",
+      "transliteration": "Sunce greye kamenye, polako.",
+      "category": "Nature",
+      "generated_at": "2026-10-18T17:14:14.276538"
+    },
+    {
+      "english": "Wind whispers secrets, through pines.",
+      "serbian": "Vetar šapuće tajne, kroz borove.",
+      "transliteration": "Vetar shapuche tayne, kroz borove.",
+      "category": "Nature",
+      "generated_at": "2026-10-18T17:14:14.276548"
+    },
+    {
+      "english": "River flows onward, ever changing.",
+      "serbian": "Reka teče dalje, uvek se menja.",
+      "transliteration": "Reka teche dalye, uvek se menya.",
+      "category": "Nature",
+      "generated_at": "2026-10-18T17:14:14.276549"
+    },
+    {
+      "english": "Birds sing greetings, to the day.",
+      "serbian": "Ptice pevaju pozdrave, danu.",
+      "transliteration": "Ptice pevayu pozdrave, danu.",
+      "category": "Nature",
+      "generated_at": "2026-10-18T17:14:14.276550"
+    },
+    {
+      "english": "Clouds drift lazily, across blue.",
+      "serbian": "Oblaci plove lenjo, preko plavog.",
+      "transliteration": "Oblatsi plove lenyo, preko plavog.",
+      "category": "Nature",
+      "generated_at": "2026-10-18T17:14:14.276551"
     }
   ],
-  "last_updated": "2026-10-18T15:23:12.401988"
+  "last_updated": "2026-10-18T17:14:14.276553"
 }
