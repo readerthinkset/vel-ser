@@ -20159,7 +20159,42 @@
       "transliteration": "Moja zahvalnost, je neizmerna.",
       "category": "Gratitude",
       "generated_at": "2026-10-20T17:24:10.301274"
+    },
+    {
+      "english": "My thoughtlessness, caused this. Please forgive.",
+      "serbian": "Moja nepromišljenost, je ovo izazvala. Molim te, oprosti.",
+      "transliteration": "Mo-ya ne-promish-lyen-ost, ye o-vo i-za-zva-la. Mo-lim te, o-pro-sti.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T18:35:59.263482"
+    },
+    {
+      "english": "I wish, to make amends, now.",
+      "serbian": "Želim, da ispravim, ovo sada.",
+      "transliteration": "Zheh-lim, da is-pra-vim, o-vo sa-da.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T18:35:59.263490"
+    },
+    {
+      "english": "Can we, heal, this wound?",
+      "serbian": "Možemo li, da zalečimo, ovu ranu?",
+      "transliteration": "Mo-zhe-mo li, da za-leh-chi-mo, o-vu ra-nu?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T18:35:59.263490"
+    },
+    {
+      "english": "My oversight, was unintentional. Forgive me.",
+      "serbian": "Moj previd, bio je nenameran. Oprosti mi.",
+      "transliteration": "Moy pre-vid, bi-o ye ne-na-me-ran. O-pro-sti mi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T18:35:59.263491"
+    },
+    {
+      "english": "I underestimated, the impact. Truly sorry.",
+      "serbian": "Podcenio sam, uticaj. Zaista žalim.",
+      "transliteration": "Pod-tse-nio sam, u-ti-tsay. Zay-is-ta zha-lim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T18:35:59.263492"
     }
   ],
-  "last_updated": "2026-10-20T17:24:10.301276"
+  "last_updated": "2026-10-20T18:35:59.263493"
 }
