@@ -20299,7 +20299,42 @@
       "transliteration": "Naleti hrabrosti, sada.",
       "category": "Feelings",
       "generated_at": "2026-10-21T05:06:09.951848"
+    },
+    {
+      "english": "Something spilled, on the floor.",
+      "serbian": "Nešto se prosulo, po podu.",
+      "transliteration": "Neshto se prosulo, po podu.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T17:26:13.376303"
+    },
+    {
+      "english": "My phone, is dead. No signal.",
+      "serbian": "Telefon mi je, prazan. Nema signala.",
+      "transliteration": "Telefon mi je, prazan. Nema signala.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T17:26:13.376314"
+    },
+    {
+      "english": "A strong smell, of gas.",
+      "serbian": "Jaki miris, na plin.",
+      "transliteration": "Yaki miris, na plin.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T17:26:13.376316"
+    },
+    {
+      "english": "I feel, very hot, suddenly.",
+      "serbian": "Odjednom mi je, jako vruće.",
+      "transliteration": "Odjednom mi je, yako vruće.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T17:26:13.376318"
+    },
+    {
+      "english": "My glasses, are broken. Can't see.",
+      "serbian": "Naočare su mi, slomljene. Ne vidim.",
+      "transliteration": "Naochare su mi, slomljene. Ne vidim.",
+      "category": "Emergency",
+      "generated_at": "2026-10-21T17:26:13.376319"
     }
   ],
-  "last_updated": "2026-10-21T05:06:09.951850"
+  "last_updated": "2026-10-21T17:26:13.376321"
 }
