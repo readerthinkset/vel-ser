@@ -20334,7 +20334,42 @@
       "transliteration": "Naochare su mi, slomljene. Ne vidim.",
       "category": "Emergency",
       "generated_at": "2026-10-21T17:26:13.376319"
+    },
+    {
+      "english": "What's on the menu?",
+      "serbian": "Šta je na meniju?",
+      "transliteration": "Shtah yeh nah meh-nee-oo?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-21T18:48:49.793027"
+    },
+    {
+      "english": "Could we see, the wine list?",
+      "serbian": "Možemo li videti, vinsku kartu?",
+      "transliteration": "Moh-zheh-mo lee vee-deh-tee, veen-skoo kar-too?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-21T18:48:49.793039"
+    },
+    {
+      "english": "This appetizer, is delicious.",
+      "serbian": "Ovo predjelo, je ukusno.",
+      "transliteration": "Oh-vo prehd-yeh-lo, yeh oo-koos-no.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-21T18:48:49.793041"
+    },
+    {
+      "english": "Is this spicy, a little?",
+      "serbian": "Je li ovo ljuto, malo?",
+      "transliteration": "Yeh lee oh-vo l'yoo-to, mah-lo?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-21T18:48:49.793042"
+    },
+    {
+      "english": "I'll have, the grilled fish.",
+      "serbian": "Uzeću, ribu na žaru.",
+      "transliteration": "Oo-zeh-choo, ree-boo nah zha-roo.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-21T18:48:49.793043"
     }
   ],
-  "last_updated": "2026-10-21T17:26:13.376321"
+  "last_updated": "2026-10-21T18:48:49.793045"
 }
