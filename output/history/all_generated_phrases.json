@@ -20404,7 +20404,42 @@
       "transliteration": "PItaite za NAJbolju RAKIju, UCHtivo.",
       "category": "Purpose",
       "generated_at": "2026-10-21T20:45:53.478517"
+    },
+    {
+      "english": "The air, feels heavy.",
+      "serbian": "Ваздух, осећа се тешко.",
+      "transliteration": "Vazduh, oseća se teško.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:29:23.147021"
+    },
+    {
+      "english": "A sudden chill, arrived.",
+      "serbian": "Изненадан хладан талас, стигао је.",
+      "transliteration": "Iznenađen hladan talas, stigao je.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:29:23.147033"
+    },
+    {
+      "english": "Sunlight, warms my face.",
+      "serbian": "Сунчева светлост, греје ми лице.",
+      "transliteration": "Sunčeva svetlost, greje mi lice.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:29:23.147034"
+    },
+    {
+      "english": "Mist, hangs low.",
+      "serbian": "Магла, виси ниско.",
+      "transliteration": "Magla, visi nisko.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:29:23.147035"
+    },
+    {
+      "english": "The sky, blushes at dawn.",
+      "serbian": "Небо, румени се у зору.",
+      "transliteration": "Nebo, rumeni se u zoru.",
+      "category": "Weather",
+      "generated_at": "2026-10-21T23:29:23.147036"
     }
   ],
-  "last_updated": "2026-10-21T20:45:53.478518"
+  "last_updated": "2026-10-21T23:29:23.147037"
 }
