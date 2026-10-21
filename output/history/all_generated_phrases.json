@@ -20369,7 +20369,42 @@
       "transliteration": "Oo-zeh-choo, ree-boo nah zha-roo.",
       "category": "Restaurant",
       "generated_at": "2026-10-21T18:48:49.793043"
+    },
+    {
+      "english": "Unlock local charm, with Serbian.",
+      "serbian": "Откључајте локални шарм, на српском.",
+      "transliteration": "OtkLJUchaite loKALni SHARM, na SRPSKOM.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T20:45:53.478505"
+    },
+    {
+      "english": "Navigate markets, like a local.",
+      "serbian": "Крећите се пијацама, као мештанин.",
+      "transliteration": "KreCHite se piJATsama, KAO meSHTANIN.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T20:45:53.478515"
+    },
+    {
+      "english": "Understand street signs, quickly.",
+      "serbian": "Разумејте путokaze, брзо.",
+      "transliteration": "RAZumeite puTOkaze, BRZO.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T20:45:53.478515"
+    },
+    {
+      "english": "Chat with bakers, for fresh bread.",
+      "serbian": "Ћаскајте с пекарима, за свеж хлеб.",
+      "transliteration": "CHAskaite s PEkaRIMA, za SVEZH HLEB.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T20:45:53.478516"
+    },
+    {
+      "english": "Ask for the best rakija, politely.",
+      "serbian": "Питајте за најбољу ракију, учtivo.",
+      "transliteration": "PItaite za NAJbolju RAKIju, UCHtivo.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T20:45:53.478517"
     }
   ],
-  "last_updated": "2026-10-21T18:48:49.793045"
+  "last_updated": "2026-10-21T20:45:53.478518"
 }
