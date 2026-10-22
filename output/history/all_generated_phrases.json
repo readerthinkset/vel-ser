@@ -20474,7 +20474,42 @@
       "transliteration": "Ot-krij srpski, de-o po de-o.",
       "category": "Confidence",
       "generated_at": "2026-10-22T05:07:15.237037"
+    },
+    {
+      "english": "The sun is bright, today.",
+      "serbian": "Сунце сија, данас.",
+      "transliteration": "Sunce sija, danas.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-22T17:24:03.735594"
+    },
+    {
+      "english": "This coffee, is strong.",
+      "serbian": "Ова кафа, је јака.",
+      "transliteration": "Ova kafa, je jaka.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-22T17:24:03.735605"
+    },
+    {
+      "english": "That song, is catchy.",
+      "serbian": "Та песма, је заразна.",
+      "transliteration": "Ta pesma, je zarazna.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-22T17:24:03.735607"
+    },
+    {
+      "english": "Did you sleep, well?",
+      "serbian": "Јеси ли спавао, добро?",
+      "transliteration": "Jesi li spavao, dobro?",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-22T17:24:03.735608"
+    },
+    {
+      "english": "The rain, is coming.",
+      "serbian": "Киша, долази.",
+      "transliteration": "Kiša, dolazi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-10-22T17:24:03.735610"
     }
   ],
-  "last_updated": "2026-10-22T05:07:15.237038"
+  "last_updated": "2026-10-22T17:24:03.735612"
 }
