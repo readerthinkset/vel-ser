@@ -20439,7 +20439,42 @@
       "transliteration": "Nebo, rumeni se u zoru.",
       "category": "Weather",
       "generated_at": "2026-10-21T23:29:23.147036"
+    },
+    {
+      "english": "Unfold your Serbian, softly.",
+      "serbian": "Одрани свој српски, нежно.",
+      "transliteration": "Odra-ni svoj srpski, než-no.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T05:07:15.237024"
+    },
+    {
+      "english": "Let new words, bloom.",
+      "serbian": "Пусти нове речи, да процветају.",
+      "transliteration": "Pus-ti no-ve re-či, da pro-cve-ta-ju.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T05:07:15.237032"
+    },
+    {
+      "english": "Breathe in Serbian, exhale joy.",
+      "serbian": "Удиши српски, издиши радост.",
+      "transliteration": "U-di-ši srpski, iz-di-ši ra-dost.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T05:07:15.237034"
+    },
+    {
+      "english": "Find your voice, in this song.",
+      "serbian": "Пронађи свој глас, у овој песми.",
+      "transliteration": "Pro-na-đi svoj glas, u o-voj pe-smi.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T05:07:15.237036"
+    },
+    {
+      "english": "Discover Serbian, piece by piece.",
+      "serbian": "Откриј српски, део по део.",
+      "transliteration": "Ot-krij srpski, de-o po de-o.",
+      "category": "Confidence",
+      "generated_at": "2026-10-22T05:07:15.237037"
     }
   ],
-  "last_updated": "2026-10-21T23:29:23.147037"
+  "last_updated": "2026-10-22T05:07:15.237038"
 }

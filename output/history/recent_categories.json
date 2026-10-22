@@ -1,6 +1,5 @@
 {
   "recent_categories": [
-    "Food",
     "Colors",
     "Animals",
     "Time",
@@ -24,7 +23,8 @@
     "Emergency",
     "Restaurant",
     "Purpose",
-    "Weather"
+    "Weather",
+    "Confidence"
   ],
-  "last_updated": "2026-10-21T23:29:14.100516"
+  "last_updated": "2026-10-22T05:07:05.969435"
 }
