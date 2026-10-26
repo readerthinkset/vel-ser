@@ -21174,7 +21174,42 @@
       "transliteration": "Moja tiha radost, otkrivena.",
       "category": "Relationships",
       "generated_at": "2026-10-26T18:45:32.208569"
+    },
+    {
+      "english": "Is, something, burning?",
+      "serbian": "Da li, nešto, gori?",
+      "transliteration": "Da li, neshto, gori?",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T20:03:57.301043"
+    },
+    {
+      "english": "I, need, assistance.",
+      "serbian": "Treba, mi, pomoć.",
+      "transliteration": "Treba, mi, pomoch.",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T20:03:57.301058"
+    },
+    {
+      "english": "There, is, a blockage.",
+      "serbian": "Postoji, blokada.",
+      "transliteration": "Postoji, blokada.",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T20:03:57.301060"
+    },
+    {
+      "english": "My, heart, is racing.",
+      "serbian": "Srce, mi, lupa.",
+      "transliteration": "Srce, mi, lupa.",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T20:03:57.301062"
+    },
+    {
+      "english": "I, feel, very weak.",
+      "serbian": "Osećam, se, slabo.",
+      "transliteration": "Osecham, se, slabo.",
+      "category": "Emergency",
+      "generated_at": "2026-10-26T20:03:57.301063"
     }
   ],
-  "last_updated": "2026-10-26T18:45:32.208570"
+  "last_updated": "2026-10-26T20:03:57.301066"
 }
