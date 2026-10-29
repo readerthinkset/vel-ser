@@ -21629,7 +21629,42 @@
       "transliteration": "Podelimo, ovo iskustvo.",
       "category": "Basic Phrases",
       "generated_at": "2026-10-29T00:05:59.547798"
+    },
+    {
+      "english": "Hear the whisper, speak the word.",
+      "serbian": "Čuj šapat, reci reč.",
+      "transliteration": "Chuy shapat, reci rech.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:39:58.403798"
+    },
+    {
+      "english": "Let the sentence unfold, gently.",
+      "serbian": "Neka se rečenica razvije, blago.",
+      "transliteration": "Neka se rechenitsa razvije, blago.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:39:58.403811"
+    },
+    {
+      "english": "Feel the grammar, understand it.",
+      "serbian": "Oseti gramatiku, shvati je.",
+      "transliteration": "Oseti gramatiku, shvati ye.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:39:58.403813"
+    },
+    {
+      "english": "Open your mouth, shape the sound.",
+      "serbian": "Otvori usta, oblikuj zvuk.",
+      "transliteration": "Otvori usta, oblikuy zvuk.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:39:58.403814"
+    },
+    {
+      "english": "This little word, try it.",
+      "serbian": "Ova mala reč, probaj je.",
+      "transliteration": "Ova mala rech, probay ye.",
+      "category": "Directions",
+      "generated_at": "2026-10-29T18:39:58.403816"
     }
   ],
-  "last_updated": "2026-10-29T00:05:59.547800"
+  "last_updated": "2026-10-29T18:39:58.403818"
 }
