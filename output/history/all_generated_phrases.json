@@ -22224,7 +22224,42 @@
       "transliteration": "Trenuci se skupljaju, kao prašina.",
       "category": "Time",
       "generated_at": "2026-11-01T21:18:50.352425"
+    },
+    {
+      "english": "My shoulder, shrugs in confusion.",
+      "serbian": "Moje rame, sleže ramenima u zbunjenosti.",
+      "transliteration": "Moje rame, slezhe ramenima u zbunjenosti.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T23:42:55.526655"
+    },
+    {
+      "english": "His knee, bends with the rhythm.",
+      "serbian": "Njegovo koleno, savija se u ritmu.",
+      "transliteration": "Njegovo koleno, savija se u ritmu.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T23:42:55.526666"
+    },
+    {
+      "english": "Her ankle, twists slightly.",
+      "serbian": "Njena člankovina, malo se uvrće.",
+      "transliteration": "Njena člankovina, malo se uvrće.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T23:42:55.526667"
+    },
+    {
+      "english": "My elbow, nudges your arm.",
+      "serbian": "Moj lakat, gura tvoju ruku.",
+      "transliteration": "Moj lakat, gura tvoju ruku.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T23:42:55.526668"
+    },
+    {
+      "english": "His chest, expands with a deep breath.",
+      "serbian": "Njegova prsa, šire se dubokim udahom.",
+      "transliteration": "Njegova prsa, shire se dubokim udahom.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-01T23:42:55.526669"
     }
   ],
-  "last_updated": "2026-11-01T21:18:50.352427"
+  "last_updated": "2026-11-01T23:42:55.526671"
 }
