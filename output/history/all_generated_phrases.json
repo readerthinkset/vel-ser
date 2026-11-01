@@ -22189,7 +22189,42 @@
       "transliteration": "Pet malih koraka, ... ka vratima.",
       "category": "Numbers",
       "generated_at": "2026-11-01T19:03:02.316468"
+    },
+    {
+      "english": "A shadow lengthens, slowly.",
+      "serbian": "Сенка се издужује, полако.",
+      "transliteration": "Senka se izdužuje, polako.",
+      "category": "Time",
+      "generated_at": "2026-11-01T21:18:50.352409"
+    },
+    {
+      "english": "This instant, is precious.",
+      "serbian": "Овај тренутак, је драгоцен.",
+      "transliteration": "Ovaj trenutak, je dragocen.",
+      "category": "Time",
+      "generated_at": "2026-11-01T21:18:50.352421"
+    },
+    {
+      "english": "Sunrise paints, the sky.",
+      "serbian": "Излазак сунца слика, небо.",
+      "transliteration": "Izlazak sunca slika, nebo.",
+      "category": "Time",
+      "generated_at": "2026-11-01T21:18:50.352423"
+    },
+    {
+      "english": "Let it simmer, a while.",
+      "serbian": "Нека крчка, мало.",
+      "transliteration": "Neka krčka, malo.",
+      "category": "Time",
+      "generated_at": "2026-11-01T21:18:50.352424"
+    },
+    {
+      "english": "Moments gather, like dust.",
+      "serbian": "Тренуци се скупљају, као прашина.",
+      "transliteration": "Trenuci se skupljaju, kao prašina.",
+      "category": "Time",
+      "generated_at": "2026-11-01T21:18:50.352425"
     }
   ],
-  "last_updated": "2026-11-01T19:03:02.316470"
+  "last_updated": "2026-11-01T21:18:50.352427"
 }
