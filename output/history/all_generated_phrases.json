@@ -22329,7 +22329,42 @@
       "transliteration": "Slušaj pažljivo, naglasak.",
       "category": "Education",
       "generated_at": "2026-11-02T21:50:40.519612"
+    },
+    {
+      "english": "That aroma, of roasted peppers.",
+      "serbian": "Taj miris, pečenih paprika.",
+      "transliteration": "Taj miris, pechenih paprika.",
+      "category": "Food",
+      "generated_at": "2026-11-02T22:50:46.317710"
+    },
+    {
+      "english": "A dollop, of sour cream.",
+      "serbian": "Jedna kašika, kisele pavlake.",
+      "transliteration": "Yedna kashika, kisele pavlake.",
+      "category": "Food",
+      "generated_at": "2026-11-02T22:50:46.317724"
+    },
+    {
+      "english": "This fresh bread, smells divine.",
+      "serbian": "Ovaj svež hleb, miriše božanstveno.",
+      "transliteration": "Ovaý svezh hleb, mirishe bozhansstveno.",
+      "category": "Food",
+      "generated_at": "2026-11-02T22:50:46.317726"
+    },
+    {
+      "english": "A taste, of the garden.",
+      "serbian": "Ukus, bašte.",
+      "transliteration": "Ukus, bashte.",
+      "category": "Food",
+      "generated_at": "2026-11-02T22:50:46.317727"
+    },
+    {
+      "english": "So creamy, this yogurt.",
+      "serbian": "Tako kremasto, ovo kiselo mleko.",
+      "transliteration": "Tako kremasto, ovo kiselo mleko.",
+      "category": "Food",
+      "generated_at": "2026-11-02T22:50:46.317729"
     }
   ],
-  "last_updated": "2026-11-02T21:50:40.519613"
+  "last_updated": "2026-11-02T22:50:46.317730"
 }
