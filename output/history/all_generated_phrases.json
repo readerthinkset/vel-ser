@@ -22259,7 +22259,42 @@
       "transliteration": "Njegova prsa, shire se dubokim udahom.",
       "category": "Body Parts",
       "generated_at": "2026-11-01T23:42:55.526669"
+    },
+    {
+      "english": "This is, quite a find, isn't it?",
+      "serbian": "Ovo je, baš otkriće, zar ne?",
+      "transliteration": "Ovo ye, bash otkriche, zar ne?",
+      "category": "Shopping",
+      "generated_at": "2026-11-02T06:33:03.208492"
+    },
+    {
+      "english": "I like, this style, a lot.",
+      "serbian": "Sviđa mi se, ovaj stil, mnogo.",
+      "transliteration": "Sviche mi se, ovaj stil, mnogo.",
+      "category": "Shopping",
+      "generated_at": "2026-11-02T06:33:03.208502"
+    },
+    {
+      "english": "Could you help me, please?",
+      "serbian": "Možete li, mi pomoći, molim?",
+      "transliteration": "Mozhete li, mi pomochi, molim?",
+      "category": "Shopping",
+      "generated_at": "2026-11-02T06:33:03.208504"
+    },
+    {
+      "english": "What is, the price, for this?",
+      "serbian": "Koliko košta, ovo, molim?",
+      "transliteration": "Koliko koshta, ovo, molim?",
+      "category": "Shopping",
+      "generated_at": "2026-11-02T06:33:03.208505"
+    },
+    {
+      "english": "I'm just, looking, thank you.",
+      "serbian": "Samo gledam, hvala.",
+      "transliteration": "Samo gledam, hvala.",
+      "category": "Shopping",
+      "generated_at": "2026-11-02T06:33:03.208507"
     }
   ],
-  "last_updated": "2026-11-01T23:42:55.526671"
+  "last_updated": "2026-11-02T06:33:03.208508"
 }
