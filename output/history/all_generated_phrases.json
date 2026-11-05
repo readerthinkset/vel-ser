@@ -22784,7 +22784,42 @@
       "transliteration": "U koliko otvara muzej, danas?",
       "category": "Travel",
       "generated_at": "2026-11-05T00:57:45.127266"
+    },
+    {
+      "english": "The morning sun lifts the whole street, slowly.",
+      "serbian": "Jutarnje sunce podiže cijelu ulicu, polako.",
+      "transliteration": "Jutarnje sunce podiže cijelu ulicu, polako.",
+      "category": "Weather",
+      "generated_at": "2026-11-05T07:07:55.473584"
+    },
+    {
+      "english": "A light drizzle taps my umbrella, softly now.",
+      "serbian": "Lagana rominja tapka moj kišobran, nježno sada.",
+      "transliteration": "Lagana rominja tapka moj kišobran, nježno sada.",
+      "category": "Weather",
+      "generated_at": "2026-11-05T07:07:55.473596"
+    },
+    {
+      "english": "Dark clouds gather, then break apart, quickly.",
+      "serbian": "Tamni oblaci se okupljaju, pa se raziđu, brzo.",
+      "transliteration": "Tamni oblaci se okupljaju, pa se raziđu, brzo.",
+      "category": "Weather",
+      "generated_at": "2026-11-05T07:07:55.473599"
+    },
+    {
+      "english": "Snowflakes swirl in the air, dancing together.",
+      "serbian": "Snježne pahulje vijore se u zraku, plešu zajedno.",
+      "transliteration": "Snježne pahulje vijore se u zraku, plešu zajedno.",
+      "category": "Weather",
+      "generated_at": "2026-11-05T07:07:55.473601"
+    },
+    {
+      "english": "The air feels dry, crisp, and bright.",
+      "serbian": "Zrak je suh, oštar, i svijetao.",
+      "transliteration": "Zrak je suh, oštar, i svijetao.",
+      "category": "Weather",
+      "generated_at": "2026-11-05T07:07:55.473602"
     }
   ],
-  "last_updated": "2026-11-05T00:57:45.127267"
+  "last_updated": "2026-11-05T07:07:55.473604"
 }
