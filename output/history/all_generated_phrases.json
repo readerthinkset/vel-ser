@@ -22749,7 +22749,42 @@
       "transliteration": "Hvala ti, sto si me slusao strpljivo.",
       "category": "Gratitude",
       "generated_at": "2026-11-04T22:44:11.139946"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "serbian": "Gde je autobusna stanica, molim vas?",
+      "transliteration": "Gde je autobusna stanica, molim vas?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T00:57:45.127254"
+    },
+    {
+      "english": "I’d like a ticket, to the center.",
+      "serbian": "Volim kartu, do centra.",
+      "transliteration": "Volim kartu, do centra.",
+      "category": "Travel",
+      "generated_at": "2026-11-05T00:57:45.127263"
+    },
+    {
+      "english": "How much is it, in dinars?",
+      "serbian": "Koliko košta, u dinarima?",
+      "transliteration": "Koliko kosta, u dinarima?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T00:57:45.127264"
+    },
+    {
+      "english": "Is there Wi-Fi here, by any chance?",
+      "serbian": "Ima li ovde Wi-Fi, slučajno?",
+      "transliteration": "Ima li ovde Wi-Fi, slucajno?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T00:57:45.127265"
+    },
+    {
+      "english": "What time does the museum open, today?",
+      "serbian": "U koliko otvara muzej, danas?",
+      "transliteration": "U koliko otvara muzej, danas?",
+      "category": "Travel",
+      "generated_at": "2026-11-05T00:57:45.127266"
     }
   ],
-  "last_updated": "2026-11-04T22:44:11.139947"
+  "last_updated": "2026-11-05T00:57:45.127267"
 }
