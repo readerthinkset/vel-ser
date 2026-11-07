@@ -23239,7 +23239,42 @@
       "transliteration": "Budi hrabar, dok učiš korake.",
       "category": "Courage",
       "generated_at": "2026-11-07T21:00:33.058873"
+    },
+    {
+      "english": "Hope stays, even when plans fail",
+      "serbian": "Нада остаје, и кад планови посустану",
+      "transliteration": "Nada ostaje, i kad planovi posustanu",
+      "category": "Hope",
+      "generated_at": "2026-11-07T23:43:47.561564"
+    },
+    {
+      "english": "Tomorrow waits, like warm light on steps",
+      "serbian": "Сутра те чека, као топло светло на степеницама",
+      "transliteration": "Sutra te ceka, kao toplo svetlo na stepenicama",
+      "category": "Hope",
+      "generated_at": "2026-11-07T23:43:47.561576"
+    },
+    {
+      "english": "Hold on, your strength returns",
+      "serbian": "Држи се, сила ти се враћа",
+      "transliteration": "Drzi se, sila ti se vraca",
+      "category": "Hope",
+      "generated_at": "2026-11-07T23:43:47.561577"
+    },
+    {
+      "english": "Keep going, the road listens",
+      "serbian": "Настави даље, пут те слуша",
+      "transliteration": "Nastavi dalje, put te slusa",
+      "category": "Hope",
+      "generated_at": "2026-11-07T23:43:47.561578"
+    },
+    {
+      "english": "In silence, courage grows quietly",
+      "serbian": "У тишини, храброст тихо расте",
+      "transliteration": "U tišini, hrabrost tiho raste",
+      "category": "Hope",
+      "generated_at": "2026-11-07T23:43:47.561579"
     }
   ],
-  "last_updated": "2026-11-07T21:00:33.058874"
+  "last_updated": "2026-11-07T23:43:47.561580"
 }
