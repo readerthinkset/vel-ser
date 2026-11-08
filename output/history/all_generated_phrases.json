@@ -23274,7 +23274,42 @@
       "transliteration": "U tišini, hrabrost tiho raste",
       "category": "Hope",
       "generated_at": "2026-11-07T23:43:47.561579"
+    },
+    {
+      "english": "Hi, may we get menus, please?",
+      "serbian": "Zdravo, možemo li dobiti jelovnike, molim vas?",
+      "transliteration": "Zdravo, mozemo li dobiti jelovnike, molim vas?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T06:25:28.854615"
+    },
+    {
+      "english": "Do you have vegetarian dishes, today?",
+      "serbian": "Imate li vegetarijanska jela danas?",
+      "transliteration": "Imate li vegetarijanska jela danas?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T06:25:28.854628"
+    },
+    {
+      "english": "What do you recommend, for two people?",
+      "serbian": "Šta preporučujete, za dvoje ljudi?",
+      "transliteration": "Sta preporucujete, za dvoje ljudi?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T06:25:28.854630"
+    },
+    {
+      "english": "I would like something without meat, please.",
+      "serbian": "Želeo bih nešto bez mesa, molim vas.",
+      "transliteration": "Zeleo bih nesto bez mesa, molim vas.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T06:25:28.854631"
+    },
+    {
+      "english": "Can we order, after we talk?",
+      "serbian": "Možemo li poručiti, nakon kratkog razgovora?",
+      "transliteration": "Mozemo li poruciti, nakon kratkog razgovora?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-08T06:25:28.854632"
     }
   ],
-  "last_updated": "2026-11-07T23:43:47.561580"
+  "last_updated": "2026-11-08T06:25:28.854633"
 }
