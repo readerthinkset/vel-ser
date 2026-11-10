@@ -23729,7 +23729,42 @@
       "transliteration": "Vrapčić poskakuje bliže, traži mrvice.",
       "category": "Nature",
       "generated_at": "2026-11-10T18:58:10.164431"
+    },
+    {
+      "english": "Call an ambulance, please, quickly.",
+      "serbian": "Nazovite hitnu pomoć, molim vas, brzo.",
+      "transliteration": "Nazovite hitnu pomoć, molim vas, brzo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T20:40:29.137829"
+    },
+    {
+      "english": "Please help me get out safely.",
+      "serbian": "Molim vas, pomozite mi da izađem.",
+      "transliteration": "Molim vas, pomozite mi da izađem.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T20:40:29.137841"
+    },
+    {
+      "english": "I think I broke my arm.",
+      "serbian": "Mislim da sam slomio",
+      "transliteration": "Mislim da sam slomio/la ruku.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T20:40:29.137843"
+    },
+    {
+      "english": "My nose is bleeding, it won't stop.",
+      "serbian": "Nos mi krvari, ne prestaje.",
+      "transliteration": "Nos mi krvari, ne prestaje.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T20:40:29.137845"
+    },
+    {
+      "english": "I swallowed something sharp, it hurts.",
+      "serbian": "Progutao",
+      "transliteration": "Progutao/la sam nešto oštro, boli.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T20:40:29.137847"
     }
   ],
-  "last_updated": "2026-11-10T18:58:10.164433"
+  "last_updated": "2026-11-10T20:40:29.137849"
 }
