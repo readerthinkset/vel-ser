@@ -23554,7 +23554,42 @@
       "transliteration": "Pitaj, odgovori, nasmej se, nastavi.",
       "category": "Education",
       "generated_at": "2026-11-09T23:30:51.985946"
+    },
+    {
+      "english": "Can I try it on, please?",
+      "serbian": "Mogu li da probam, molim vas?",
+      "transliteration": "Mogu li da probam, molim vas?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:46:55.949764"
+    },
+    {
+      "english": "Where is the fitting room, exactly?",
+      "serbian": "Gde je kabina za probu, tačno?",
+      "transliteration": "Gde je kabina za probu, tačno?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:46:55.949776"
+    },
+    {
+      "english": "Do you have this in my size?",
+      "serbian": "Imate li ovo u mojoj veličini?",
+      "transliteration": "Imate li ovo u mojoj veličini?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:46:55.949778"
+    },
+    {
+      "english": "Is there a smaller size available?",
+      "serbian": "Ima li manja veličina, dostupna?",
+      "transliteration": "Ima li manja veličina, dostupna?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:46:55.949779"
+    },
+    {
+      "english": "And what about the material, please?",
+      "serbian": "A od čega je, molim vas?",
+      "transliteration": "A od čega je, molim vas?",
+      "category": "Shopping",
+      "generated_at": "2026-11-10T00:46:55.949781"
     }
   ],
-  "last_updated": "2026-11-09T23:30:51.985947"
+  "last_updated": "2026-11-10T00:46:55.949783"
 }
