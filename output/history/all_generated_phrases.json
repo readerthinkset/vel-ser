@@ -23764,7 +23764,42 @@
       "transliteration": "Progutao/la sam nešto oštro, boli.",
       "category": "Emergency",
       "generated_at": "2026-11-10T20:40:29.137847"
+    },
+    {
+      "english": "I love this cotton t-shirt.",
+      "serbian": "Volim ovu pamučnu majicu.",
+      "transliteration": "Volim ovu pamuchnu majicu.",
+      "category": "Clothes",
+      "generated_at": "2026-11-10T22:15:32.687049"
+    },
+    {
+      "english": "These trousers sit perfectly on me.",
+      "serbian": "Ove pantalone mi savršeno stoje.",
+      "transliteration": "Ove pantalone mi savršeno stoje.",
+      "category": "Clothes",
+      "generated_at": "2026-11-10T22:15:32.687062"
+    },
+    {
+      "english": "This jacket looks great with jeans.",
+      "serbian": "Ova jakna se super slaže s farmerkama.",
+      "transliteration": "Ova jakna se super slaže s farmerkama.",
+      "category": "Clothes",
+      "generated_at": "2026-11-10T22:15:32.687064"
+    },
+    {
+      "english": "I need a warm scarf today.",
+      "serbian": "Danas mi treba topao šal.",
+      "transliteration": "Danas mi treba topao šal.",
+      "category": "Clothes",
+      "generated_at": "2026-11-10T22:15:32.687065"
+    },
+    {
+      "english": "My shirt is wrinkle-free today.",
+      "serbian": "Košulja mi danas ne gužva se.",
+      "transliteration": "Košulja mi danas ne gužva se.",
+      "category": "Clothes",
+      "generated_at": "2026-11-10T22:15:32.687066"
     }
   ],
-  "last_updated": "2026-11-10T20:40:29.137849"
+  "last_updated": "2026-11-10T22:15:32.687067"
 }
