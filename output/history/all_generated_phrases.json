@@ -23869,7 +23869,42 @@
       "transliteration": "Tvoj na-predak je stvar-an, čak i da-nas.",
       "category": "Motivation",
       "generated_at": "2026-11-11T05:49:58.736699"
+    },
+    {
+      "english": "Keep your phone charged, always ready.",
+      "serbian": "Neka ti telefon bude uvek napunjen.",
+      "transliteration": "Neka ti telefon bude uvek napunjen.",
+      "category": "Technology",
+      "generated_at": "2026-11-11T18:56:21.828329"
+    },
+    {
+      "english": "Share a file, in seconds.",
+      "serbian": "Podeli fajl, za nekoliko sekundi.",
+      "transliteration": "Podeli fajl, za nekoliko sekundi.",
+      "category": "Technology",
+      "generated_at": "2026-11-11T18:56:21.828341"
+    },
+    {
+      "english": "Turn on Bluetooth, and connect quickly.",
+      "serbian": "Uključi Bluetooth, i brzo se poveži.",
+      "transliteration": "Uključi Bluetooth, i brzo se poveži.",
+      "category": "Technology",
+      "generated_at": "2026-11-11T18:56:21.828342"
+    },
+    {
+      "english": "Send a message, even without data.",
+      "serbian": "Pošalji poruku, i bez interneta.",
+      "transliteration": "Pošalji poruku, i bez interneta.",
+      "category": "Technology",
+      "generated_at": "2026-11-11T18:56:21.828344"
+    },
+    {
+      "english": "Offline mode saves your battery.",
+      "serbian": "Oflajn režim štedi bateriju.",
+      "transliteration": "Oflajn režim štedi bateriju.",
+      "category": "Technology",
+      "generated_at": "2026-11-11T18:56:21.828345"
     }
   ],
-  "last_updated": "2026-11-11T05:49:58.736701"
+  "last_updated": "2026-11-11T18:56:21.828347"
 }
