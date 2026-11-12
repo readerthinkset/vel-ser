@@ -23974,7 +23974,42 @@
       "transliteration": "uhvati se za kratke razgovore, povezi se",
       "category": "Growth",
       "generated_at": "2026-11-11T23:25:19.019550"
+    },
+    {
+      "english": "At dawn, we'll head out together.",
+      "serbian": "U zoru ćemo zajedno krenuti.",
+      "transliteration": "U zoru ćemo zajedno krenuti.",
+      "category": "Time",
+      "generated_at": "2026-11-12T01:54:10.983283"
+    },
+    {
+      "english": "In the morning, call me, please.",
+      "serbian": "Ujutru me pozovi, molim te.",
+      "transliteration": "Ujutru me pozovi, molim te.",
+      "category": "Time",
+      "generated_at": "2026-11-12T01:54:10.983300"
+    },
+    {
+      "english": "By noon, we'll be near there.",
+      "serbian": "Do podne ćemo biti u blizini.",
+      "transliteration": "Do podne ćemo biti u blizini.",
+      "category": "Time",
+      "generated_at": "2026-11-12T01:54:10.983302"
+    },
+    {
+      "english": "This afternoon, let's take a walk.",
+      "serbian": "Danas popodne, hajde da prošetamo.",
+      "transliteration": "Danas popodne, hajde da prošetamo.",
+      "category": "Time",
+      "generated_at": "2026-11-12T01:54:10.983304"
+    },
+    {
+      "english": "Tonight, don't stay up too late.",
+      "serbian": "Večeras, ne ostaj budan prekasno.",
+      "transliteration": "Večeras, ne ostaj budan prekasno.",
+      "category": "Time",
+      "generated_at": "2026-11-12T01:54:10.983305"
     }
   ],
-  "last_updated": "2026-11-11T23:25:19.019552"
+  "last_updated": "2026-11-12T01:54:10.983307"
 }
