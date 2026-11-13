@@ -24219,7 +24219,42 @@
       "transliteration": "Baš mi je drago, prijatno!",
       "category": "Greetings",
       "generated_at": "2026-11-13T06:15:27.163971"
+    },
+    {
+      "english": "I have one pen, that's all.",
+      "serbian": "Imam jedan pen, to je sve.",
+      "transliteration": "Imam jedan pen, to je sve.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T18:51:23.895369"
+    },
+    {
+      "english": "Bring me two bottles, please.",
+      "serbian": "Donеси mi две флаше, молим те.",
+      "transliteration": "Donjеси mi dve flaše, molim te.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T18:51:23.895387"
+    },
+    {
+      "english": "We need three plates for dinner.",
+      "serbian": "Trebaju nam tri tanjira za večeru.",
+      "transliteration": "Trebaju nam tri tanjira za večeru.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T18:51:23.895388"
+    },
+    {
+      "english": "He bought four apples at market.",
+      "serbian": "Kupio je četiri jabuke na pijaci.",
+      "transliteration": "Kupiо je četiri jabuke na pijaci.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T18:51:23.895390"
+    },
+    {
+      "english": "I ate five cookies with tea.",
+      "serbian": "Pojeo sam pet keksa uz čaj.",
+      "transliteration": "Pojeo sam pet keksa uz čaj.",
+      "category": "Numbers",
+      "generated_at": "2026-11-13T18:51:23.895391"
     }
   ],
-  "last_updated": "2026-11-13T06:15:27.163974"
+  "last_updated": "2026-11-13T18:51:23.895392"
 }
