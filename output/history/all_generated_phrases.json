@@ -24184,7 +24184,42 @@
       "transliteration": "Verujem ti celim srcem.",
       "category": "Friendship",
       "generated_at": "2026-11-13T00:59:31.396380"
+    },
+    {
+      "english": "Hello! Welcome, I'm happy to meet you.",
+      "serbian": "Zdravo! Dobrodošli, drago mi je.",
+      "transliteration": "Zdravo! Dobrodošli, drago mi je.",
+      "category": "Greetings",
+      "generated_at": "2026-11-13T06:15:27.163949"
+    },
+    {
+      "english": "Good morning, have a great day!",
+      "serbian": "Dobro jutro, želim ti lep dan!",
+      "transliteration": "Dobro jutro, želim ti lep dan!",
+      "category": "Greetings",
+      "generated_at": "2026-11-13T06:15:27.163965"
+    },
+    {
+      "english": "Good afternoon, how’s everything going?",
+      "serbian": "Dobar dan, kako sve ide?",
+      "transliteration": "Dobar dan, kako sve ide?",
+      "category": "Greetings",
+      "generated_at": "2026-11-13T06:15:27.163968"
+    },
+    {
+      "english": "Good evening, did you eat yet?",
+      "serbian": "Dobro veče, jesi li večerao",
+      "transliteration": "Dobro veče, jesi li večerao/la?",
+      "category": "Greetings",
+      "generated_at": "2026-11-13T06:15:27.163970"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "serbian": "Baš mi je drago, prijatno!",
+      "transliteration": "Baš mi je drago, prijatno!",
+      "category": "Greetings",
+      "generated_at": "2026-11-13T06:15:27.163971"
     }
   ],
-  "last_updated": "2026-11-13T00:59:31.396381"
+  "last_updated": "2026-11-13T06:15:27.163974"
 }
