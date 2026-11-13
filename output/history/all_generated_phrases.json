@@ -24254,7 +24254,42 @@
       "transliteration": "Pojeo sam pet keksa uz čaj.",
       "category": "Numbers",
       "generated_at": "2026-11-13T18:51:23.895391"
+    },
+    {
+      "english": "I would like a coffee, please.",
+      "serbian": "Voleo bih kafu, molim.",
+      "transliteration": "Voleo bih kafu, molim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T20:43:12.690640"
+    },
+    {
+      "english": "How do you say this in Serbian?",
+      "serbian": "Kako se kaže ovo na srpskom?",
+      "transliteration": "Kako se kaze ovo na srpskom?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T20:43:12.690655"
+    },
+    {
+      "english": "Please write it down for me.",
+      "serbian": "Možeš li to da napišeš za mene?",
+      "transliteration": "Možeš li to da napišeš za mene?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T20:43:12.690657"
+    },
+    {
+      "english": "Is it far from here?",
+      "serbian": "Je li daleko odavde?",
+      "transliteration": "Je li daleko odavde?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T20:43:12.690659"
+    },
+    {
+      "english": "I need a doctor, please.",
+      "serbian": "Potrebam je lekara, molim.",
+      "transliteration": "Potrebam je lekara, molim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-13T20:43:12.690660"
     }
   ],
-  "last_updated": "2026-11-13T18:51:23.895392"
+  "last_updated": "2026-11-13T20:43:12.690662"
 }
