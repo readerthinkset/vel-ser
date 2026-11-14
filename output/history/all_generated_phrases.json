@@ -24359,7 +24359,42 @@
       "transliteration": "Otvori srce, nada te prati.",
       "category": "Hope",
       "generated_at": "2026-11-14T00:50:55.341376"
+    },
+    {
+      "english": "A black crow, hops on the fence.",
+      "serbian": "Crna vrana, skače na ogradu.",
+      "transliteration": "crna vrana, skače na ogradu",
+      "category": "Animals",
+      "generated_at": "2026-11-14T05:58:40.916365"
+    },
+    {
+      "english": "The fox, quietly slips through the yard.",
+      "serbian": "Lisica tiho provlači kroz dvorište.",
+      "transliteration": "lisica tiho provlači kroz dvorište",
+      "category": "Animals",
+      "generated_at": "2026-11-14T05:58:40.916377"
+    },
+    {
+      "english": "A wolf, howls far beyond the trees.",
+      "serbian": "Vuk zavija daleko, iza drveća.",
+      "transliteration": "vuk zavija daleko, iza drveća",
+      "category": "Animals",
+      "generated_at": "2026-11-14T05:58:40.916379"
+    },
+    {
+      "english": "The deer steps softly, near the lake.",
+      "serbian": "Jelen korača tiho, pored jezera.",
+      "transliteration": "jelen korača tiho, pored jezera",
+      "category": "Animals",
+      "generated_at": "2026-11-14T05:58:40.916380"
+    },
+    {
+      "english": "A rabbit freezes, then bolts into grass.",
+      "serbian": "Zec se ukoči, pa nestane u travi.",
+      "transliteration": "zec se ukoči, pa nestane u travi",
+      "category": "Animals",
+      "generated_at": "2026-11-14T05:58:40.916381"
     }
   ],
-  "last_updated": "2026-11-14T00:50:55.341378"
+  "last_updated": "2026-11-14T05:58:40.916383"
 }
