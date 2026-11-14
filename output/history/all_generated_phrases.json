@@ -24499,7 +24499,42 @@
       "transliteration": "Sada se osećam stabilno i sigurno.",
       "category": "Feelings",
       "generated_at": "2026-11-14T21:17:28.615113"
+    },
+    {
+      "english": "Hi, can you help me please?",
+      "serbian": "Zdravo, možete li mi pomoći, molim vas?",
+      "transliteration": "Zdravo, mozete li mi pomoci, molim vas?",
+      "category": "Education",
+      "generated_at": "2026-11-14T23:48:59.513828"
+    },
+    {
+      "english": "I am learning Serbian, slowly.",
+      "serbian": "Učim srpski, polako.",
+      "transliteration": "Učim srpski, polako.",
+      "category": "Education",
+      "generated_at": "2026-11-14T23:48:59.513845"
+    },
+    {
+      "english": "What does this word mean exactly?",
+      "serbian": "Šta tačno znači ova reč?",
+      "transliteration": "Sta tacno znaci ova rec?",
+      "category": "Education",
+      "generated_at": "2026-11-14T23:48:59.513846"
+    },
+    {
+      "english": "Please say it again, one more time.",
+      "serbian": "Molim vas, recite ponovo, još jednom.",
+      "transliteration": "Molim vas, recite ponovo, jos jednom.",
+      "category": "Education",
+      "generated_at": "2026-11-14T23:48:59.513847"
+    },
+    {
+      "english": "Could you speak a bit slower?",
+      "serbian": "Možete li malo sporije govoriti?",
+      "transliteration": "Mozete li malo sporije govoriti?",
+      "category": "Education",
+      "generated_at": "2026-11-14T23:48:59.513848"
     }
   ],
-  "last_updated": "2026-11-14T21:17:28.615117"
+  "last_updated": "2026-11-14T23:48:59.513850"
 }
