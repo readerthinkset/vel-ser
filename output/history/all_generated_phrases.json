@@ -24639,7 +24639,42 @@
       "transliteration": "Hajde sa mnom do stanice.",
       "category": "Directions",
       "generated_at": "2026-11-15T19:30:53.895715"
+    },
+    {
+      "english": "Dad, can we go today?",
+      "serbian": "Tata, možemo li danas?",
+      "transliteration": "tata, možemo li danas?",
+      "category": "Family Terms",
+      "generated_at": "2026-11-15T21:38:34.434091"
+    },
+    {
+      "english": "Mom, I missed you so much.",
+      "serbian": "Mama, toliko mi fališ.",
+      "transliteration": "mama, toliko mi fališ",
+      "category": "Family Terms",
+      "generated_at": "2026-11-15T21:38:34.434105"
+    },
+    {
+      "english": "My father always listens carefully.",
+      "serbian": "Moj otac sve pažljivo sluša.",
+      "transliteration": "moj otac sve pažljivo sluša",
+      "category": "Family Terms",
+      "generated_at": "2026-11-15T21:38:34.434106"
+    },
+    {
+      "english": "Your parents are very welcoming.",
+      "serbian": "Tvoji roditelji su baš gostoljubivi.",
+      "transliteration": "tvoji roditelji su baš gostoljubivi",
+      "category": "Family Terms",
+      "generated_at": "2026-11-15T21:38:34.434107"
+    },
+    {
+      "english": "Our family eats together every Sunday.",
+      "serbian": "Naša porodica se jede zajedno svake nedelje.",
+      "transliteration": "naša porodica se jede zajedno svake nedelje",
+      "category": "Family Terms",
+      "generated_at": "2026-11-15T21:38:34.434108"
     }
   ],
-  "last_updated": "2026-11-15T19:30:53.895717"
+  "last_updated": "2026-11-15T21:38:34.434109"
 }
