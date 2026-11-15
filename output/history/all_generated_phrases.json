@@ -24534,7 +24534,42 @@
       "transliteration": "Mozete li malo sporije govoriti?",
       "category": "Education",
       "generated_at": "2026-11-14T23:48:59.513848"
+    },
+    {
+      "english": "White cotton, clean and bright.",
+      "serbian": "Beli pamuk, čist i sjajan.",
+      "transliteration": "beli pamuk, čisto i sjajan",
+      "category": "Colors",
+      "generated_at": "2026-11-15T06:00:46.686469"
+    },
+    {
+      "english": "Black coffee, strong and bitter.",
+      "serbian": "Crna kafa, jaka i gorka.",
+      "transliteration": "crna kafa, jaka i gorka",
+      "category": "Colors",
+      "generated_at": "2026-11-15T06:00:46.686482"
+    },
+    {
+      "english": "Silver spoon, cool and shiny.",
+      "serbian": "Srebrna kašika, hladna i sjajna.",
+      "transliteration": "srebrna kašika, hladna i sjajna",
+      "category": "Colors",
+      "generated_at": "2026-11-15T06:00:46.686484"
+    },
+    {
+      "english": "Rose petals, delicate and soft.",
+      "serbian": "Ružini latice, nežne i meke.",
+      "transliteration": "ružine latice, nežne i meke",
+      "category": "Colors",
+      "generated_at": "2026-11-15T06:00:46.686485"
+    },
+    {
+      "english": "Brown leather shoes, worn but solid.",
+      "serbian": "Smeđene kožne cipele, iznošene ali čvrste.",
+      "transliteration": "smeđene kožne cipele, iznošene ali čvrste",
+      "category": "Colors",
+      "generated_at": "2026-11-15T06:00:46.686487"
     }
   ],
-  "last_updated": "2026-11-14T23:48:59.513850"
+  "last_updated": "2026-11-15T06:00:46.686489"
 }
