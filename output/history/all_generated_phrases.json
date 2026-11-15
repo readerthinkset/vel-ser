@@ -24604,7 +24604,42 @@
       "transliteration": "Moj um može da se odmori, samo danas.",
       "category": "Inner Peace",
       "generated_at": "2026-11-15T18:04:37.296645"
+    },
+    {
+      "english": "Turn left at the next corner.",
+      "serbian": "Skreni levo na sledećem ćošku.",
+      "transliteration": "Skreni levo na sledećem ćošku.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:30:53.895699"
+    },
+    {
+      "english": "Go straight for two blocks.",
+      "serbian": "Idi pravo dve ulice.",
+      "transliteration": "Idi pravo dve ulice.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:30:53.895710"
+    },
+    {
+      "english": "Cross the street at the light.",
+      "serbian": "Pređi ulicu na semaforu.",
+      "transliteration": "Pređi ulicu na semaforu.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:30:53.895712"
+    },
+    {
+      "english": "Keep walking, it’s not far.",
+      "serbian": "Nastavi da hodaš, nije daleko.",
+      "transliteration": "Nastavi da hodaš, nije daleko.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:30:53.895713"
+    },
+    {
+      "english": "Follow me to the station.",
+      "serbian": "Hajde sa mnom do stanice.",
+      "transliteration": "Hajde sa mnom do stanice.",
+      "category": "Directions",
+      "generated_at": "2026-11-15T19:30:53.895715"
     }
   ],
-  "last_updated": "2026-11-15T18:04:37.296647"
+  "last_updated": "2026-11-15T19:30:53.895717"
 }
