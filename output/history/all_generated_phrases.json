@@ -24779,7 +24779,42 @@
       "transliteration": "Koristi rečenicu koju već znaš.",
       "category": "Confidence",
       "generated_at": "2026-11-16T21:20:14.853854"
+    },
+    {
+      "english": "I could use something warm right now.",
+      "serbian": "Mogu malo toplo sada.",
+      "transliteration": "Mogu malo toplo sada.",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:07:39.386842"
+    },
+    {
+      "english": "Can I get a second helping?",
+      "serbian": "Mogu još jednu porciju, molim?",
+      "transliteration": "Mogu još jednu porciju, molim?",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:07:39.386859"
+    },
+    {
+      "english": "Pass me the salt, please.",
+      "serbian": "Dodaj mi so, molim te.",
+      "transliteration": "Dodaj mi so, molim te.",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:07:39.386861"
+    },
+    {
+      "english": "This bread is still soft.",
+      "serbian": "Ovaj hleb je još uvek mekan.",
+      "transliteration": "Ovaj hleb je još uvek mekan.",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:07:39.386862"
+    },
+    {
+      "english": "How spicy is that sauce?",
+      "serbian": "Koliko je ljut taj sos?",
+      "transliteration": "Koliko je ljut taj sos?",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:07:39.386863"
     }
   ],
-  "last_updated": "2026-11-16T21:20:14.853856"
+  "last_updated": "2026-11-16T23:07:39.386865"
 }
