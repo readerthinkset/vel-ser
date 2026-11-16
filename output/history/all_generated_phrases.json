@@ -24709,7 +24709,42 @@
       "transliteration": "Pusti da ti se ramena spuste.",
       "category": "Mindfulness",
       "generated_at": "2026-11-15T23:54:54.102551"
+    },
+    {
+      "english": "How much does this cost, please?",
+      "serbian": "Koliko košta ovo, molim vas?",
+      "transliteration": "Koliko košta ovo, molim vas?",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T06:00:34.611836"
+    },
+    {
+      "english": "Is there any discount today?",
+      "serbian": "Ima li neki popust danas?",
+      "transliteration": "Ima li neki popust danas?",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T06:00:34.611850"
+    },
+    {
+      "english": "Do you have it in black?",
+      "serbian": "Imate li ga u crnoj boji?",
+      "transliteration": "Imate li ga u crnoj boji?",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T06:00:34.611852"
+    },
+    {
+      "english": "Could I see the back, please?",
+      "serbian": "Mogu li da vidim zadnju stranu?",
+      "transliteration": "Mogu li da vidim zadnju stranu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T06:00:34.611853"
+    },
+    {
+      "english": "What sizes do you have?",
+      "serbian": "Koje brojeve imate?",
+      "transliteration": "Koje brojeve imate?",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T06:00:34.611854"
     }
   ],
-  "last_updated": "2026-11-15T23:54:54.102554"
+  "last_updated": "2026-11-16T06:00:34.611858"
 }
