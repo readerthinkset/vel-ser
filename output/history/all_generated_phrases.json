@@ -24744,7 +24744,42 @@
       "transliteration": "Koje brojeve imate?",
       "category": "Shopping",
       "generated_at": "2026-11-16T06:00:34.611854"
+    },
+    {
+      "english": "Slow down, and your meaning will land.",
+      "serbian": "Usporì, i značenje će stići.",
+      "transliteration": "Usporì, i značenje će stići.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:20:14.853832"
+    },
+    {
+      "english": "Be brave, even if it's imperfect.",
+      "serbian": "Budi hrabar, i kad nije savršeno.",
+      "transliteration": "Budi hrabar, i kad nije savršeno.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:20:14.853849"
+    },
+    {
+      "english": "Take a breath, then say it.",
+      "serbian": "Udahni, pa reci to.",
+      "transliteration": "Udahni, pa reci to.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:20:14.853851"
+    },
+    {
+      "english": "Ask one question, right now.",
+      "serbian": "Postavi jedno pitanje, odmah.",
+      "transliteration": "Postavi jedno pitanje, odmah.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:20:14.853853"
+    },
+    {
+      "english": "Use the sentence you already know.",
+      "serbian": "Koristi rečenicu koju već znaš.",
+      "transliteration": "Koristi rečenicu koju već znaš.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T21:20:14.853854"
     }
   ],
-  "last_updated": "2026-11-16T06:00:34.611858"
+  "last_updated": "2026-11-16T21:20:14.853856"
 }
