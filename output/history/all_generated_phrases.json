@@ -24849,7 +24849,42 @@
       "transliteration": "Pošalji mi ažuriranu datoteku, molim te.",
       "category": "Work",
       "generated_at": "2026-11-17T00:46:53.879918"
+    },
+    {
+      "english": "Excuse me, where is the bus stop?",
+      "serbian": "Izvinite, gde je autobuska stanica?",
+      "transliteration": "Izvinite, gde je autobuska stanica?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:52:05.653279"
+    },
+    {
+      "english": "Could you help me, please, with this?",
+      "serbian": "Možeš li da mi pomogneš, molim te?",
+      "transliteration": "Možeš li da mi pomogneš, molim te?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:52:05.653295"
+    },
+    {
+      "english": "I’m looking for the post office.",
+      "serbian": "Tražim poštu.",
+      "transliteration": "Tražim poštu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:52:05.653297"
+    },
+    {
+      "english": "How much does this cost, roughly?",
+      "serbian": "Koliko ovo otprilike košta?",
+      "transliteration": "Koliko ovo otprilike košta?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:52:05.653299"
+    },
+    {
+      "english": "Where can I buy tickets, please?",
+      "serbian": "Gde mogu da kupim karte, molim?",
+      "transliteration": "Gde mogu da kupim karte, molim?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-17T02:52:05.653300"
     }
   ],
-  "last_updated": "2026-11-17T00:46:53.879919"
+  "last_updated": "2026-11-17T02:52:05.653302"
 }
