@@ -25094,7 +25094,42 @@
       "transliteration": "Gradite kredit polako, neka bude chit.",
       "category": "Finance",
       "generated_at": "2026-11-18T07:15:32.616443"
+    },
+    {
+      "english": "What time does the ferry leave, today?",
+      "serbian": "U koliko sati trajekt polazi danas?",
+      "transliteration": "U koliko sati trajekt polazi danas?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T19:40:41.089296"
+    },
+    {
+      "english": "Is this the right stop, for downtown?",
+      "serbian": "Je l' ovo tačna stanica, za centar?",
+      "transliteration": "Je l' ovo tachna stanica, za centar?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T19:40:41.089307"
+    },
+    {
+      "english": "How much is a day pass, please?",
+      "serbian": "Koliko košta dnevna karta, molim vas?",
+      "transliteration": "Koliko košta dnevna karta, molim vas?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T19:40:41.089309"
+    },
+    {
+      "english": "Could you help me find a pharmacy?",
+      "serbian": "Možete li pomoći da nađem apoteku?",
+      "transliteration": "Mozhete li pomoci da nadem apoteku?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T19:40:41.089311"
+    },
+    {
+      "english": "Is there a supermarket nearby, open now?",
+      "serbian": "Ima li obližnji supermarket, otvoren sad?",
+      "transliteration": "Ima li obliznji supermarket, otvoren sad?",
+      "category": "Travel",
+      "generated_at": "2026-11-18T19:40:41.089312"
     }
   ],
-  "last_updated": "2026-11-18T07:15:32.616445"
+  "last_updated": "2026-11-18T19:40:41.089314"
 }
