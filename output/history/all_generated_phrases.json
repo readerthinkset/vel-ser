@@ -24989,7 +24989,42 @@
       "transliteration": "Koristi istu rečenicu, sa više sigurnosti.",
       "category": "Inspiration",
       "generated_at": "2026-11-17T21:58:23.146730"
+    },
+    {
+      "english": "Hi, we’d like to sit here.",
+      "serbian": "Bok, želeli bismo da sednemo ovde.",
+      "transliteration": "bok, zheleli bismo da sednemo ovde",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T00:16:27.339233"
+    },
+    {
+      "english": "Could we get some water, please?",
+      "serbian": "Možemo li dobiti vode, molim vas?",
+      "transliteration": "mozhemo li dobiti vode, molim vas",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T00:16:27.339250"
+    },
+    {
+      "english": "Are there any specials today, please?",
+      "serbian": "Imate li danas neke specijalitete, molim?",
+      "transliteration": "imate li danas neke specijalitete, molim",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T00:16:27.339252"
+    },
+    {
+      "english": "How long does it take, roughly?",
+      "serbian": "Koliko otprilike traje, recimo?",
+      "transliteration": "koliko otprilike traje, recimo",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T00:16:27.339253"
+    },
+    {
+      "english": "Could we get the bill, please?",
+      "serbian": "Možete li nam doneti račun, molim vas?",
+      "transliteration": "mozete li nam doneti racun, molim vas",
+      "category": "Restaurant",
+      "generated_at": "2026-11-18T00:16:27.339255"
     }
   ],
-  "last_updated": "2026-11-17T21:58:23.146734"
+  "last_updated": "2026-11-18T00:16:27.339257"
 }
