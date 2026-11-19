@@ -25339,7 +25339,42 @@
       "transliteration": "Prekini šablon, umešaj nešto neočekivano.",
       "category": "Creativity",
       "generated_at": "2026-11-19T21:55:47.129184"
+    },
+    {
+      "english": "The sun is bright today, finally.",
+      "serbian": "Danas je sunce jako, konačno.",
+      "transliteration": "Danas je sunce jako, konacno.",
+      "category": "Weather",
+      "generated_at": "2026-11-19T23:29:23.531021"
+    },
+    {
+      "english": "It’s cloudy, so nothing feels warm.",
+      "serbian": "Oblačno je, ništa ne greje.",
+      "transliteration": "Oblacno je, nista ne greje.",
+      "category": "Weather",
+      "generated_at": "2026-11-19T23:29:23.531034"
+    },
+    {
+      "english": "The wind is cold, straight from north.",
+      "serbian": "Vetar je hladan, pravo sa severa.",
+      "transliteration": "Vetar je hladan, pravo sa severa.",
+      "category": "Weather",
+      "generated_at": "2026-11-19T23:29:23.531036"
+    },
+    {
+      "english": "Look, rain starts, right on time.",
+      "serbian": "Gledaj, kisa krece, tacno na vreme.",
+      "transliteration": "Gledaj, kisa krece, tacno na vreme.",
+      "category": "Weather",
+      "generated_at": "2026-11-19T23:29:23.531038"
+    },
+    {
+      "english": "Thunder is far away, but loud.",
+      "serbian": "Grom je daleko, ali se čuje.",
+      "transliteration": "Grom je daleko, ali se cuje.",
+      "category": "Weather",
+      "generated_at": "2026-11-19T23:29:23.531039"
     }
   ],
-  "last_updated": "2026-11-19T21:55:47.129186"
+  "last_updated": "2026-11-19T23:29:23.531041"
 }
