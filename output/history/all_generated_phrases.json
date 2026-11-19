@@ -25234,7 +25234,42 @@
       "transliteration": "Tvoj savet mi pomaze da nadjem put.",
       "category": "Friendship",
       "generated_at": "2026-11-19T01:50:11.207976"
+    },
+    {
+      "english": "I wake up, reach for my phone.",
+      "serbian": "Budim se, posežem za telefonom.",
+      "transliteration": "Budim se, posežem za telefonom.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:05:28.041608"
+    },
+    {
+      "english": "I pull the curtains, let in light.",
+      "serbian": "Razmaknem zastore, pustim svetlo unutra.",
+      "transliteration": "Razmaknem zastore, pustim svetlo unutra.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:05:28.041622"
+    },
+    {
+      "english": "I wash my face, fresh and calm.",
+      "serbian": "Umivam se, svež i smiren.",
+      "transliteration": "Umivam se, svež i smiren.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:05:28.041624"
+    },
+    {
+      "english": "I brush my teeth, then I grin.",
+      "serbian": "Operem zube, pa se nasmejem.",
+      "transliteration": "Operem zube, pa se nasmejem.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:05:28.041625"
+    },
+    {
+      "english": "I put on clothes, still slightly sleepy.",
+      "serbian": "Obučem se, još sam pomalo pospan.",
+      "transliteration": "Obučem se, još sam pomalo pospan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-19T07:05:28.041627"
     }
   ],
-  "last_updated": "2026-11-19T01:50:11.207978"
+  "last_updated": "2026-11-19T07:05:28.041629"
 }
