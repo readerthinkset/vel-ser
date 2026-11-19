@@ -25269,7 +25269,42 @@
       "transliteration": "Obučem se, još sam pomalo pospan.",
       "category": "Daily Routine",
       "generated_at": "2026-11-19T07:05:28.041627"
+    },
+    {
+      "english": "Hi there, how are you today?",
+      "serbian": "Bok, kako si danas?",
+      "transliteration": "bok, kako si danas",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T19:57:22.355834"
+    },
+    {
+      "english": "Hello, nice to see you again.",
+      "serbian": "Zdravo, baš mi je drago da te vidim.",
+      "transliteration": "zdravo, baš mi je drago da te vidim",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T19:57:22.355850"
+    },
+    {
+      "english": "Good morning, have a lovely start.",
+      "serbian": "Dobro jutro, želim ti lep početak.",
+      "transliteration": "dobro jutro, želim ti lep početak",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T19:57:22.355852"
+    },
+    {
+      "english": "Hello! How’s it going with you?",
+      "serbian": "Zdravo! Kako ide kod tebe?",
+      "transliteration": "zdravo! kako ide kod tebe",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T19:57:22.355853"
+    },
+    {
+      "english": "Hey, good to meet you here.",
+      "serbian": "Hej, drago mi je što smo se sreli.",
+      "transliteration": "hej, drago mi je što smo se sreli",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T19:57:22.355854"
     }
   ],
-  "last_updated": "2026-11-19T07:05:28.041629"
+  "last_updated": "2026-11-19T19:57:22.355856"
 }
