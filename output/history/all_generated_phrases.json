@@ -25374,7 +25374,42 @@
       "transliteration": "Grom je daleko, ali se cuje.",
       "category": "Weather",
       "generated_at": "2026-11-19T23:29:23.531039"
+    },
+    {
+      "english": "When you fall, stand up again.",
+      "serbian": "Kad padneš, ustani opet.",
+      "transliteration": "Kad padneš, ustani opet.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T01:44:38.994960"
+    },
+    {
+      "english": "Learn from mistakes, try another way.",
+      "serbian": "Uči iz grešaka, probaj drugi put.",
+      "transliteration": "Uči iz grešaka, probaj drugi put.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T01:44:38.994973"
+    },
+    {
+      "english": "One more try, right now, please.",
+      "serbian": "Još jedan pokušaj, odmah, molim.",
+      "transliteration": "Još jedan pokušaj, odmah, molim.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T01:44:38.994974"
+    },
+    {
+      "english": "Stay calm, and keep working.",
+      "serbian": "Budi miran, i nastavi da radiš.",
+      "transliteration": "Budi miran, i nastavi da radiš.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T01:44:38.994976"
+    },
+    {
+      "english": "Even slowly, you still move ahead.",
+      "serbian": "I polako, ipak ideš napred.",
+      "transliteration": "I polako, ipak ideš napred.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-20T01:44:38.994977"
     }
   ],
-  "last_updated": "2026-11-19T23:29:23.531041"
+  "last_updated": "2026-11-20T01:44:38.994978"
 }
