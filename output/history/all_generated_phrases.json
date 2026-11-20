@@ -25444,7 +25444,42 @@
       "transliteration": "Pijaca mirise na svez hleb.",
       "category": "Culture",
       "generated_at": "2026-11-20T06:54:24.160286"
+    },
+    {
+      "english": "Thank you for your help today, really.",
+      "serbian": "Hvala ti na pomoći danas, baš.",
+      "transliteration": "Hvala ti na pomoći danas, baš.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:19:31.900762"
+    },
+    {
+      "english": "I really appreciate your time, today.",
+      "serbian": "Stvarno cijenim tvoje vrijeme, danas.",
+      "transliteration": "Stvarno cijenim tvoje vrijeme, danas.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:19:31.900775"
+    },
+    {
+      "english": "Thanks for listening, I feel lighter.",
+      "serbian": "Hvala što si slušao, lakše mi je.",
+      "transliteration": "Hvala što si slušao, lakše mi je.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:19:31.900777"
+    },
+    {
+      "english": "Your support means a lot to me.",
+      "serbian": "Tvoja podrška mi puno znači.",
+      "transliteration": "Tvoja podrška mi puno znači.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:19:31.900778"
+    },
+    {
+      "english": "Thank you, you made things easier.",
+      "serbian": "Hvala ti, olakšao si mi stvari.",
+      "transliteration": "Hvala ti, olakšao si mi stvari.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T19:19:31.900780"
     }
   ],
-  "last_updated": "2026-11-20T06:54:24.160288"
+  "last_updated": "2026-11-20T19:19:31.900782"
 }
