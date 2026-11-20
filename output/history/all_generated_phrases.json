@@ -25479,7 +25479,42 @@
       "transliteration": "Hvala ti, olakšao si mi stvari.",
       "category": "Gratitude",
       "generated_at": "2026-11-20T19:19:31.900780"
+    },
+    {
+      "english": "I love you, više nego ikad.",
+      "serbian": "Volim te, više nego ikad.",
+      "transliteration": "Volim te, vise nego ikad.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:37:53.113306"
+    },
+    {
+      "english": "You mean everything to me, baš si.",
+      "serbian": "Ti si sve moje, baš si.",
+      "transliteration": "Ti si sve moje, bas si.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:37:53.113320"
+    },
+    {
+      "english": "Hold me close tonight, molim te.",
+      "serbian": "Drži me blizu večeras, molim te.",
+      "transliteration": "Drzi me blizu veceras, molim te.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:37:53.113321"
+    },
+    {
+      "english": "When I see you, osmijeh.",
+      "serbian": "Kad te vidim, samo se osmijehim.",
+      "transliteration": "Kad te vidim, samo se osmehim.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:37:53.113322"
+    },
+    {
+      "english": "I want to grow old with you.",
+      "serbian": "Želim da starimo zajedno.",
+      "transliteration": "Zelim da starimo zajedno.",
+      "category": "Love",
+      "generated_at": "2026-11-20T21:37:53.113323"
     }
   ],
-  "last_updated": "2026-11-20T19:19:31.900782"
+  "last_updated": "2026-11-20T21:37:53.113324"
 }
