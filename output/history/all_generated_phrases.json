@@ -25409,7 +25409,42 @@
       "transliteration": "I polako, ipak ideš napred.",
       "category": "Perseverance",
       "generated_at": "2026-11-20T01:44:38.994977"
+    },
+    {
+      "english": "Let’s share coffee and stories today.",
+      "serbian": "Ajmo da podelimo kafu i priče danas.",
+      "transliteration": "Ajmo da podelimo kafu i price danas.",
+      "category": "Culture",
+      "generated_at": "2026-11-20T06:54:24.160266"
+    },
+    {
+      "english": "You’ll hear laughter in the backyard.",
+      "serbian": "Čućeš smeh na dvorištu, baš uskoro.",
+      "transliteration": "Cuceš smeh na dvorištu, baš uskoro.",
+      "category": "Culture",
+      "generated_at": "2026-11-20T06:54:24.160280"
+    },
+    {
+      "english": "Take a slow walk, feel the air.",
+      "serbian": "Idi polako, oseti taj vazduh.",
+      "transliteration": "Idi polako, oseti taj vazduh.",
+      "category": "Culture",
+      "generated_at": "2026-11-20T06:54:24.160282"
+    },
+    {
+      "english": "At dusk, the street lights feel golden.",
+      "serbian": "U sumrak, ulice zablistaju zlatno.",
+      "transliteration": "U sumrak, ulice zablistaju zlatno.",
+      "category": "Culture",
+      "generated_at": "2026-11-20T06:54:24.160284"
+    },
+    {
+      "english": "The market smells like fresh bread.",
+      "serbian": "Pijaca miriše na svež hleb.",
+      "transliteration": "Pijaca mirise na svez hleb.",
+      "category": "Culture",
+      "generated_at": "2026-11-20T06:54:24.160286"
     }
   ],
-  "last_updated": "2026-11-20T01:44:38.994978"
+  "last_updated": "2026-11-20T06:54:24.160288"
 }
