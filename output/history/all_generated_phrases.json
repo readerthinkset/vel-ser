@@ -25619,7 +25619,42 @@
       "transliteration": "Za deset minuta, javicu ti poruku.",
       "category": "Time",
       "generated_at": "2026-11-21T06:48:23.467437"
+    },
+    {
+      "english": "I’m sorry for hurting you, really.",
+      "serbian": "Žao mi je što sam te povredio, iskreno.",
+      "transliteration": "Zao mi je sto sam te povredio, iskreno.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T18:21:29.978963"
+    },
+    {
+      "english": "Forgive me, I didn’t mean that.",
+      "serbian": "Oprosti mi, nisam to mislio.",
+      "transliteration": "Oprosti mi, nisam to mislio.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T18:21:29.978977"
+    },
+    {
+      "english": "I hear you, and I’m sorry.",
+      "serbian": "Razumem te, i žao mi je.",
+      "transliteration": "Razume m te, i zao mi je.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T18:21:29.978979"
+    },
+    {
+      "english": "I take responsibility, for my words.",
+      "serbian": "Preuzimam odgovornost za svoje reči.",
+      "transliteration": "Preuzimam odgovornost za svoje reci.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T18:21:29.978980"
+    },
+    {
+      "english": "I shouldn’t have said it like that.",
+      "serbian": "Nisam trebao to da kažem.",
+      "transliteration": "Nisam trebao to da kazem.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-21T18:21:29.978981"
     }
   ],
-  "last_updated": "2026-11-21T06:48:23.467439"
+  "last_updated": "2026-11-21T18:21:29.978983"
 }
