@@ -25584,7 +25584,42 @@
       "transliteration": "Koristi svakodnevne reči, povezaćeš se brže.",
       "category": "Motivation",
       "generated_at": "2026-11-21T01:18:43.413609"
+    },
+    {
+      "english": "Stay, for a little longer, please.",
+      "serbian": "Ostani, još malo, molim te.",
+      "transliteration": "Ostani, josh malo, molim te.",
+      "category": "Time",
+      "generated_at": "2026-11-21T06:48:23.467414"
+    },
+    {
+      "english": "Take your time, I'm not in a rush.",
+      "serbian": "Samo polako, ne žurim.",
+      "transliteration": "Samo polako, ne žurim.",
+      "category": "Time",
+      "generated_at": "2026-11-21T06:48:23.467431"
+    },
+    {
+      "english": "We should hurry, time is running out.",
+      "serbian": "Moramo da požurimo, vrijeme ističe.",
+      "transliteration": "Moramo da pozhurimo, vrijeme istiche.",
+      "category": "Time",
+      "generated_at": "2026-11-21T06:48:23.467434"
+    },
+    {
+      "english": "Let's meet later, after work ends.",
+      "serbian": "Čujemo se kasnije, poslije posla.",
+      "transliteration": "Chujemo se kasnije, poslije posla.",
+      "category": "Time",
+      "generated_at": "2026-11-21T06:48:23.467435"
+    },
+    {
+      "english": "In ten minutes, I'll text you.",
+      "serbian": "Za deset minuta, javiću ti poruku.",
+      "transliteration": "Za deset minuta, javicu ti poruku.",
+      "category": "Time",
+      "generated_at": "2026-11-21T06:48:23.467437"
     }
   ],
-  "last_updated": "2026-11-21T01:18:43.413611"
+  "last_updated": "2026-11-21T06:48:23.467439"
 }
