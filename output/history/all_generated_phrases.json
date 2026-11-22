@@ -25829,7 +25829,42 @@
       "transliteration": "Topao pozdrav, od moje porodice vama.",
       "category": "Holidays",
       "generated_at": "2026-11-22T18:45:17.837534"
+    },
+    {
+      "english": "Repeat this word, with me.",
+      "serbian": "Ponovi ovu reč, sa mnom.",
+      "transliteration": "Ponovi ovu rech, sa mnom.",
+      "category": "Education",
+      "generated_at": "2026-11-22T20:32:18.665829"
+    },
+    {
+      "english": "Listen carefully, then say it.",
+      "serbian": "Pažljivo slušaj, pa reci.",
+      "transliteration": "Pazhљivo slushaj, pa reci.",
+      "category": "Education",
+      "generated_at": "2026-11-22T20:32:18.665841"
+    },
+    {
+      "english": "Try it again, don't worry.",
+      "serbian": "Pokušaj opet, ne brini.",
+      "transliteration": "Pokusaj opet, ne brini.",
+      "category": "Education",
+      "generated_at": "2026-11-22T20:32:18.665843"
+    },
+    {
+      "english": "Check the meaning, then use it.",
+      "serbian": "Proveri značenje, pa upotrebi.",
+      "transliteration": "Proveri znachenje, pa upotrebi.",
+      "category": "Education",
+      "generated_at": "2026-11-22T20:32:18.665845"
+    },
+    {
+      "english": "Write it down, for practice.",
+      "serbian": "Napiši to, za vežbu.",
+      "transliteration": "Napiši to, za vezhbu.",
+      "category": "Education",
+      "generated_at": "2026-11-22T20:32:18.665847"
     }
   ],
-  "last_updated": "2026-11-22T18:45:17.837535"
+  "last_updated": "2026-11-22T20:32:18.665848"
 }
