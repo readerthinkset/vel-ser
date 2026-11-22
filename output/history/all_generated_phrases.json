@@ -25759,7 +25759,42 @@
       "transliteration": "Naručuj u kafićima, razumiješ jelovnik.",
       "category": "Purpose",
       "generated_at": "2026-11-22T00:13:53.206921"
+    },
+    {
+      "english": "I’ll send the agenda in a moment.",
+      "serbian": "Poslaću dnevni red za čas.",
+      "transliteration": "Poslaću dnevni red za čas.",
+      "category": "Work",
+      "generated_at": "2026-11-22T06:21:12.598567"
+    },
+    {
+      "english": "Could you summarize the current status?",
+      "serbian": "Možeš li ukratko sažeti trenutno stanje?",
+      "transliteration": "Možeš li ukratko sažeti trenutno stanje?",
+      "category": "Work",
+      "generated_at": "2026-11-22T06:21:12.598578"
+    },
+    {
+      "english": "We’re waiting on your feedback today.",
+      "serbian": "Danas čekamo tvoj feedback.",
+      "transliteration": "Danas čekamo tvoj feedback.",
+      "category": "Work",
+      "generated_at": "2026-11-22T06:21:12.598580"
+    },
+    {
+      "english": "I need this task by end of day.",
+      "serbian": "Treba mi ovaj zadatak do kraja dana.",
+      "transliteration": "Treba mi ovaj zadatak do kraja dana.",
+      "category": "Work",
+      "generated_at": "2026-11-22T06:21:12.598582"
+    },
+    {
+      "english": "Let’s decide on priorities for this week.",
+      "serbian": "Hajde da odredimo prioritete za ovu nedelju.",
+      "transliteration": "Hajde da odredimo prioritete za ovu nedelju.",
+      "category": "Work",
+      "generated_at": "2026-11-22T06:21:12.598583"
     }
   ],
-  "last_updated": "2026-11-22T00:13:53.206923"
+  "last_updated": "2026-11-22T06:21:12.598585"
 }
