@@ -25899,7 +25899,42 @@
       "transliteration": "Vež-baj zbo-g u-ži-tka, ne od stra-ha.",
       "category": "Confidence",
       "generated_at": "2026-11-22T22:25:12.992600"
+    },
+    {
+      "english": "I want to build a future with you.",
+      "serbian": "Želim da gradimo budućnost zajedno.",
+      "transliteration": "Zelim da gradimo buducnost zajedno",
+      "category": "Relationships",
+      "generated_at": "2026-11-23T00:43:19.879511"
+    },
+    {
+      "english": "You make ordinary days feel special.",
+      "serbian": "Učiniš obične dane posebnim.",
+      "transliteration": "Učinis obicne dane posebnim",
+      "category": "Relationships",
+      "generated_at": "2026-11-23T00:43:19.879524"
+    },
+    {
+      "english": "I feel safe when you’re close.",
+      "serbian": "Budem miran kad si blizu.",
+      "transliteration": "Budem miran kad si blizu",
+      "category": "Relationships",
+      "generated_at": "2026-11-23T00:43:19.879526"
+    },
+    {
+      "english": "Let’s talk, even when it’s late.",
+      "serbian": "Hajde da pričamo, i kasno.",
+      "transliteration": "Hajde da pricamo, i kasno",
+      "category": "Relationships",
+      "generated_at": "2026-11-23T00:43:19.879527"
+    },
+    {
+      "english": "Your kindness stays with me.",
+      "serbian": "Tvoja dobrotа mi ostane u srcu.",
+      "transliteration": "Tvoja dobrota mi ostane u srcu",
+      "category": "Relationships",
+      "generated_at": "2026-11-23T00:43:19.879529"
     }
   ],
-  "last_updated": "2026-11-22T22:25:12.992602"
+  "last_updated": "2026-11-23T00:43:19.879531"
 }
