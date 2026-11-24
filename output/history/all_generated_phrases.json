@@ -26039,7 +26039,42 @@
       "transliteration": "Blizu je, samo prati put.",
       "category": "Directions",
       "generated_at": "2026-11-24T01:40:30.913477"
+    },
+    {
+      "english": "Send kindness, before you speak.",
+      "serbian": "Pošalji dobrotu, pre nego kažeš.",
+      "transliteration": "Pošalji dobrotu, pre nego kažeš.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T03:41:59.071266"
+    },
+    {
+      "english": "Help me carry this, please.",
+      "serbian": "Pomozi mi da ovo ponesem, molim.",
+      "transliteration": "Pomozi mi da ovo ponese m, molim.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T03:41:59.071286"
+    },
+    {
+      "english": "Your smile means more than you know.",
+      "serbian": "Tvoj osmeh znači više nego što misliš.",
+      "transliteration": "Tvoj osmeh znači više nego što misliš.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T03:41:59.071288"
+    },
+    {
+      "english": "Let’s be gentle with each other.",
+      "serbian": "Hajde da budemo nežni jedno prema drugom.",
+      "transliteration": "Hajde da budemo nežni jedno prema drugom.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T03:41:59.071290"
+    },
+    {
+      "english": "I noticed you, and I care.",
+      "serbian": "Primetio",
+      "transliteration": "Primetio/la sam te, i brine me.",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T03:41:59.071291"
     }
   ],
-  "last_updated": "2026-11-24T01:40:30.913479"
+  "last_updated": "2026-11-24T03:41:59.071293"
 }
