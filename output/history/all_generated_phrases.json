@@ -26004,7 +26004,42 @@
       "transliteration": "Neka strah prođe, budi hrabar ipak.",
       "category": "Strength",
       "generated_at": "2026-11-23T22:58:50.757298"
+    },
+    {
+      "english": "Go straight ahead, then turn right.",
+      "serbian": "Idi pravo napred, pa skreni desno.",
+      "transliteration": "Idi pravo napred, pa skreni desno.",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:40:30.913455"
+    },
+    {
+      "english": "Turn left at the big street.",
+      "serbian": "Skreni levo na glavnu ulicu.",
+      "transliteration": "Skreni levo na glavnu ulicu.",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:40:30.913472"
+    },
+    {
+      "english": "Keep going until you see a shop.",
+      "serbian": "Idi dalje dok ne vidiš prodavnicu.",
+      "transliteration": "Idi dalje dok ne vidiš prodavnicu.",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:40:30.913474"
+    },
+    {
+      "english": "Walk past the park, then stop.",
+      "serbian": "Prođi pored parka, pa stani.",
+      "transliteration": "Prođi pored parka, pa stani.",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:40:30.913476"
+    },
+    {
+      "english": "It’s near, just follow the road.",
+      "serbian": "Blizu je, samo prati put.",
+      "transliteration": "Blizu je, samo prati put.",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:40:30.913477"
     }
   ],
-  "last_updated": "2026-11-23T22:58:50.757303"
+  "last_updated": "2026-11-24T01:40:30.913479"
 }
