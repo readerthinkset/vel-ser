@@ -26109,7 +26109,42 @@
       "transliteration": "Znaš svoju zaradu, planiraj ostatak.",
       "category": "Finance",
       "generated_at": "2026-11-24T04:42:54.033810"
+    },
+    {
+      "english": "I want something crispy for lunch.",
+      "serbian": "Želim nešto hrskavo za ručak.",
+      "transliteration": "Zhelim nешto hrskavo za ruchak.",
+      "category": "Food",
+      "generated_at": "2026-11-24T09:35:13.463888"
+    },
+    {
+      "english": "Can I try that sauce, please?",
+      "serbian": "Mogu li da probam taj sos, molim?",
+      "transliteration": "Mogu li da probam taj sos, molim?",
+      "category": "Food",
+      "generated_at": "2026-11-24T09:35:13.463902"
+    },
+    {
+      "english": "This coffee smells strong and nice.",
+      "serbian": "Ova kafa miriše jako i prijatno.",
+      "transliteration": "Ova kafa mirishe jako i prijatno.",
+      "category": "Food",
+      "generated_at": "2026-11-24T09:35:13.463905"
+    },
+    {
+      "english": "The tomatoes are sweet today.",
+      "serbian": "Paradajz je danas sladak.",
+      "transliteration": "Paradajz je danas sladak.",
+      "category": "Food",
+      "generated_at": "2026-11-24T09:35:13.463906"
+    },
+    {
+      "english": "Give me a slice, please.",
+      "serbian": "Dajte mi jednu krišku, molim.",
+      "transliteration": "Dajte mi jednu krishku, molim.",
+      "category": "Food",
+      "generated_at": "2026-11-24T09:35:13.463908"
     }
   ],
-  "last_updated": "2026-11-24T04:42:54.033812"
+  "last_updated": "2026-11-24T09:35:13.463910"
 }
