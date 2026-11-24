@@ -26179,7 +26179,42 @@
       "transliteration": "Kad idem kući, osećam se lako.",
       "category": "Joy",
       "generated_at": "2026-11-24T21:38:57.640922"
+    },
+    {
+      "english": "This shirt feels soft against my skin.",
+      "serbian": "Ova košulja je meka uz kožu.",
+      "transliteration": "Ova košulja je meka uz kožu.",
+      "category": "Clothes",
+      "generated_at": "2026-11-24T23:20:47.149068"
+    },
+    {
+      "english": "These leggings stay in place all day.",
+      "serbian": "Ove helanke ostaju na mestu ceo dan.",
+      "transliteration": "Ove helanke ostaju na mestu ceo dan.",
+      "category": "Clothes",
+      "generated_at": "2026-11-24T23:20:47.149081"
+    },
+    {
+      "english": "That scarf looks warm for tonight.",
+      "serbian": "Taj šal izgleda toplo za večeras.",
+      "transliteration": "Taj šal izgleda toplo za večeras.",
+      "category": "Clothes",
+      "generated_at": "2026-11-24T23:20:47.149083"
+    },
+    {
+      "english": "This jacket is light, yet warm.",
+      "serbian": "Ova jakna je lagana, a topla.",
+      "transliteration": "Ova jakna je lagana, a topla.",
+      "category": "Clothes",
+      "generated_at": "2026-11-24T23:20:47.149084"
+    },
+    {
+      "english": "These gloves fit my hands perfectly.",
+      "serbian": "Ove rukavice mi savršeno stoje.",
+      "transliteration": "Ove rukavice mi savršeno stoje.",
+      "category": "Clothes",
+      "generated_at": "2026-11-24T23:20:47.149085"
     }
   ],
-  "last_updated": "2026-11-24T21:38:57.640923"
+  "last_updated": "2026-11-24T23:20:47.149087"
 }
