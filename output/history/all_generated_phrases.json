@@ -26284,7 +26284,42 @@
       "transliteration": "Alergičan sam na orašaste plodove.",
       "category": "Restaurant",
       "generated_at": "2026-11-25T03:29:06.219215"
+    },
+    {
+      "english": "A cat naps in the warm sun.",
+      "serbian": "Mačka dremka na toplom suncu.",
+      "transliteration": "Macka dremka na toplom suncu",
+      "category": "Animals",
+      "generated_at": "2026-11-25T08:06:29.393595"
+    },
+    {
+      "english": "The dog trots after the kids.",
+      "serbian": "Pas trči za decom.",
+      "transliteration": "Pas trci za decom",
+      "category": "Animals",
+      "generated_at": "2026-11-25T08:06:29.393608"
+    },
+    {
+      "english": "A bird lands softly on the rail.",
+      "serbian": "Ptica sleti tiho na ogradu.",
+      "transliteration": "Ptica sleti tiho na ogradu",
+      "category": "Animals",
+      "generated_at": "2026-11-25T08:06:29.393610"
+    },
+    {
+      "english": "A squirrel gathers nuts by the window.",
+      "serbian": "Veverica skuplja oraščiće kraj prozora.",
+      "transliteration": "Veverica skuplja orasice kraj prozora",
+      "category": "Animals",
+      "generated_at": "2026-11-25T08:06:29.393611"
+    },
+    {
+      "english": "A frog sings near the pond.",
+      "serbian": "Žaba peva kod bara.",
+      "transliteration": "Zaba peva kod bara",
+      "category": "Animals",
+      "generated_at": "2026-11-25T08:06:29.393612"
     }
   ],
-  "last_updated": "2026-11-25T03:29:06.219216"
+  "last_updated": "2026-11-25T08:06:29.393614"
 }
