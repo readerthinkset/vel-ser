@@ -26214,7 +26214,42 @@
       "transliteration": "Ove rukavice mi savršeno stoje.",
       "category": "Clothes",
       "generated_at": "2026-11-24T23:20:47.149085"
+    },
+    {
+      "english": "I’m looking for a gift for her.",
+      "serbian": "Tražim poklon za nju.",
+      "transliteration": "Tražim poklon za nju.",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:21:06.843539"
+    },
+    {
+      "english": "Can I see that in person, please?",
+      "serbian": "Možete li da mi pokažete to uživo?",
+      "transliteration": "Možete li da mi pokažete to uživo?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:21:06.843552"
+    },
+    {
+      "english": "Does it come in other sizes?",
+      "serbian": "Da li dolazi u drugim veličinama?",
+      "transliteration": "Da li dolazi u drugim veličinama?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:21:06.843554"
+    },
+    {
+      "english": "What material is this, exactly?",
+      "serbian": "Od kog je materijala ovo tačno?",
+      "transliteration": "Od kog je materijala ovo tačno?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:21:06.843555"
+    },
+    {
+      "english": "Is the fabric comfortable for daily wear?",
+      "serbian": "Da li je tkanina udobna za svaki dan?",
+      "transliteration": "Da li je tkanina udobna za svaki dan?",
+      "category": "Shopping",
+      "generated_at": "2026-11-25T01:21:06.843557"
     }
   ],
-  "last_updated": "2026-11-24T23:20:47.149087"
+  "last_updated": "2026-11-25T01:21:06.843559"
 }
