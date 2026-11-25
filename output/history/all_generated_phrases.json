@@ -26249,7 +26249,42 @@
       "transliteration": "Da li je tkanina udobna za svaki dan?",
       "category": "Shopping",
       "generated_at": "2026-11-25T01:21:06.843557"
+    },
+    {
+      "english": "Hello, can I get a table?",
+      "serbian": "Zdravo, mogu li dobiti sto?",
+      "transliteration": "Zdravo, mogu li dobiti sto?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T03:29:06.219193"
+    },
+    {
+      "english": "Could we have the menu, please?",
+      "serbian": "Možete li nam dati jelovnik, molim vas?",
+      "transliteration": "Možete li nam dati jelovnik, molim vas?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T03:29:06.219210"
+    },
+    {
+      "english": "What are today’s house specialties?",
+      "serbian": "Koje su današnje specijalnosti kuće?",
+      "transliteration": "Koje su današnje specijalnosti kuće?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T03:29:06.219212"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "serbian": "Imate li opcije bez glutena?",
+      "transliteration": "Imate li opcije bez glutena?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T03:29:06.219213"
+    },
+    {
+      "english": "I’m allergic to nuts, please.",
+      "serbian": "Alergičan sam na orašaste plodove.",
+      "transliteration": "Alergičan sam na orašaste plodove.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-25T03:29:06.219215"
     }
   ],
-  "last_updated": "2026-11-25T01:21:06.843559"
+  "last_updated": "2026-11-25T03:29:06.219216"
 }
