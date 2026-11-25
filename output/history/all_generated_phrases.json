@@ -26354,7 +26354,42 @@
       "transliteration": "Svaki dan je malo lakši.",
       "category": "Growth",
       "generated_at": "2026-11-25T20:47:05.005886"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "serbian": "Gde mogu da kupim SIM karticu?",
+      "transliteration": "Gde mogu da kupim SIM karticu?",
+      "category": "Travel",
+      "generated_at": "2026-11-25T22:53:25.185502"
+    },
+    {
+      "english": "Is there a pharmacy open tonight?",
+      "serbian": "Da li apoteka radi večeras?",
+      "transliteration": "Da li apoteka radi večeras?",
+      "category": "Travel",
+      "generated_at": "2026-11-25T22:53:25.185520"
+    },
+    {
+      "english": "Please, show me the city center.",
+      "serbian": "Molim vas, pokažite mi centar grada.",
+      "transliteration": "Molim vas, pokažite mi centar grada.",
+      "category": "Travel",
+      "generated_at": "2026-11-25T22:53:25.185522"
+    },
+    {
+      "english": "I’m looking for a train station.",
+      "serbian": "Tražim železničku stanicu.",
+      "transliteration": "Tražim železničku stanicu.",
+      "category": "Travel",
+      "generated_at": "2026-11-25T22:53:25.185523"
+    },
+    {
+      "english": "How do I get to Kalemegdan?",
+      "serbian": "Kako da dođem do Kalemegdana?",
+      "transliteration": "Kako da dođem do Kalemegdana?",
+      "category": "Travel",
+      "generated_at": "2026-11-25T22:53:25.185525"
     }
   ],
-  "last_updated": "2026-11-25T20:47:05.005888"
+  "last_updated": "2026-11-25T22:53:25.185527"
 }
