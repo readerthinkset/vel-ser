@@ -26424,7 +26424,42 @@
       "transliteration": "Tu si, nemaš šta da dokazuješ.",
       "category": "Inner Peace",
       "generated_at": "2026-11-26T00:58:33.184554"
+    },
+    {
+      "english": "Hi, what’s your name?",
+      "serbian": "Zdravo, kako se zoveš?",
+      "transliteration": "Zdravo, kako se zoveš?",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T02:44:14.198329"
+    },
+    {
+      "english": "Hello, nice to meet you!",
+      "serbian": "Bok, drago mi je da smo se upoznali!",
+      "transliteration": "Bok, drago mi je da smo se upoznali!",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T02:44:14.198345"
+    },
+    {
+      "english": "Good morning, how’s it going?",
+      "serbian": "Dobro jutro, kako ide?",
+      "transliteration": "Dobro jutro, kako ide?",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T02:44:14.198347"
+    },
+    {
+      "english": "Good afternoon, hope you’re well.",
+      "serbian": "Dobar dan, nadam se da si dobro.",
+      "transliteration": "Dobar dan, nadam se da si dobro.",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T02:44:14.198349"
+    },
+    {
+      "english": "Good evening, how was your day?",
+      "serbian": "Dobro veče, kako ti je prošao dan?",
+      "transliteration": "Dobro veče, kako ti je prošao dan?",
+      "category": "Greetings",
+      "generated_at": "2026-11-26T02:44:14.198350"
     }
   ],
-  "last_updated": "2026-11-26T00:58:33.184557"
+  "last_updated": "2026-11-26T02:44:14.198355"
 }
