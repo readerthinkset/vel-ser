@@ -26459,7 +26459,42 @@
       "transliteration": "Dobro veče, kako ti je prošao dan?",
       "category": "Greetings",
       "generated_at": "2026-11-26T02:44:14.198350"
+    },
+    {
+      "english": "Call the police, please, right now.",
+      "serbian": "Pozovite policiju, molim vas, odmah.",
+      "transliteration": "Pozovite policiju, molim vas, o dmah.",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T07:57:27.812266"
+    },
+    {
+      "english": "Is there a fire nearby? Help!",
+      "serbian": "Gori li negde u blizini? Pomoć!",
+      "transliteration": "Gori li negde u blizini? Pomoć!",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T07:57:27.812282"
+    },
+    {
+      "english": "I think I fell, I’m hurt.",
+      "serbian": "Mislim da sam pao, povredio sam se.",
+      "transliteration": "Mislim da sam pao, povredio sam se.",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T07:57:27.812284"
+    },
+    {
+      "english": "My chest hurts, please stay with me.",
+      "serbian": "Boli me grudi, ostanite sa mnom.",
+      "transliteration": "Boli me grudi, ostanite sa mnom.",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T07:57:27.812285"
+    },
+    {
+      "english": "I feel dizzy, I might faint.",
+      "serbian": "Vrti mi se, mogao bih da padnem.",
+      "transliteration": "Vrti mi se, mogao bih da padnem.",
+      "category": "Emergency",
+      "generated_at": "2026-11-26T07:57:27.812287"
     }
   ],
-  "last_updated": "2026-11-26T02:44:14.198355"
+  "last_updated": "2026-11-26T07:57:27.812288"
 }
