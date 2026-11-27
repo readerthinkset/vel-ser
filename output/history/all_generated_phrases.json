@@ -26585,7 +26585,28 @@
       "transliteration": "Nisam hteo da te povredim, oprosti.",
       "category": "Forgiveness",
       "generated_at": "2026-11-27T11:58:20.364332"
+    },
+    {
+      "english": "My sore throat is really bothering me.",
+      "serbian": "Moj grlobolja me baš muči.",
+      "transliteration": "Moj grlobolja me baš muči",
+      "category": "Body Parts",
+      "generated_at": "2026-11-27T19:15:08.940641"
+    },
+    {
+      "english": "His head hurts, he looks exhausted.",
+      "serbian": "Njega boli glava, izgleda umorno.",
+      "transliteration": "Njega boli glava, izgleda umorno",
+      "category": "Body Parts",
+      "generated_at": "2026-11-27T19:15:08.940655"
+    },
+    {
+      "english": "I rubbed my itchy nose again.",
+      "serbian": "Trljao sam nos koji me svrbi.",
+      "transliteration": "Trljao sam nos koji me svrbi",
+      "category": "Body Parts",
+      "generated_at": "2026-11-27T19:15:08.940657"
     }
   ],
-  "last_updated": "2026-11-27T11:58:20.364334"
+  "last_updated": "2026-11-27T19:15:08.940658"
 }
