@@ -26606,7 +26606,28 @@
       "transliteration": "Trljao sam nos koji me svrbi",
       "category": "Body Parts",
       "generated_at": "2026-11-27T19:15:08.940657"
+    },
+    {
+      "english": "Wait a bit, it will pass.",
+      "serbian": "Sačekaj malo, proći će.",
+      "transliteration": "Sa-che-kaj ma-lo, pro-tsi će",
+      "category": "Patience",
+      "generated_at": "2026-11-28T03:49:36.684876"
+    },
+    {
+      "english": "Breathe, and don't force it.",
+      "serbian": "Udahni, i ne forsiraj.",
+      "transliteration": "U-dah-ni, i ne for-si-raj",
+      "category": "Patience",
+      "generated_at": "2026-11-28T03:49:36.684890"
+    },
+    {
+      "english": "Take your time, we're not late.",
+      "serbian": "Uzmi vremena, nismo zakasnili.",
+      "transliteration": "U-zmi vre-me-na, ni-smo za-ka-sni-li",
+      "category": "Patience",
+      "generated_at": "2026-11-28T03:49:36.684892"
     }
   ],
-  "last_updated": "2026-11-27T19:15:08.940658"
+  "last_updated": "2026-11-28T03:49:36.684894"
 }
