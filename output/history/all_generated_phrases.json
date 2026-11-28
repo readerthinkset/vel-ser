@@ -26627,7 +26627,28 @@
       "transliteration": "U-zmi vre-me-na, ni-smo za-ka-sni-li",
       "category": "Patience",
       "generated_at": "2026-11-28T03:49:36.684892"
+    },
+    {
+      "english": "The music lifts my mood today.",
+      "serbian": "Muzika mi danas podiže raspoloženje.",
+      "transliteration": "Muzika mi danas podize raspoloženje.",
+      "category": "Music",
+      "generated_at": "2026-11-28T11:33:10.956250"
+    },
+    {
+      "english": "I catch myself humming along quietly.",
+      "serbian": "Uhvatim sebe kako tiho pevušim.",
+      "transliteration": "Uhvati se sebe kako tiho pevusim.",
+      "category": "Music",
+      "generated_at": "2026-11-28T11:33:10.956266"
+    },
+    {
+      "english": "Turn it up a little more.",
+      "serbian": "Pojacaj malo, molim te.",
+      "transliteration": "Pojacaj malo, molim te.",
+      "category": "Music",
+      "generated_at": "2026-11-28T11:33:10.956268"
     }
   ],
-  "last_updated": "2026-11-28T03:49:36.684894"
+  "last_updated": "2026-11-28T11:33:10.956270"
 }
